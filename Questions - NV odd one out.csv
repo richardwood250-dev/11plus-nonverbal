@@ -1,0 +1,601 @@
+id,Question image,correct answer,explanation,difficulty level
+NV_Top_1,NV_Top_1.png,B,The layering rule is: White is in Front of Silver. Option B breaks this order.,1
+NV_Top_2,NV_Top_2.png,E,The layering rule is: Silver is in Front of White. Option E breaks this order.,1
+NV_Top_3,NV_Top_3.png,B,The layering rule is: Silver is in Front of White. Option B breaks this order.,1
+NV_Top_4,NV_Top_4.png,D,The layering rule is: White is in Front of Silver. Option D breaks this order.,1
+NV_Top_5,NV_Top_5.png,C,The layering rule is: White is in Front of Silver. Option C breaks this order.,1
+NV_Top_6,NV_Top_6.png,A,The layering rule is: Silver is in Front of White. Option A breaks this order.,1
+NV_Top_7,NV_Top_7.png,C,The layering rule is: White is in Front of Silver. Option C breaks this order.,1
+NV_Top_8,NV_Top_8.png,D,The layering rule is: Silver is in Front of White. Option D breaks this order.,1
+NV_Top_9,NV_Top_9.png,D,The layering rule is: White is in Front of Silver. Option D breaks this order.,1
+NV_Top_10,NV_Top_10.png,A,The layering rule is: Silver is in Front of White. Option A breaks this order.,1
+NV_Top_11,NV_Top_11.png,B,The layering rule is: White is in Front of Silver. Option B breaks this order.,1
+NV_Top_12,NV_Top_12.png,D,The layering rule is: White is in Front of Silver. Option D breaks this order.,1
+NV_Top_13,NV_Top_13.png,E,The layering rule is: White is in Front of Silver. Option E breaks this order.,1
+NV_Top_14,NV_Top_14.png,A,The layering rule is: White is in Front of Silver. Option A breaks this order.,1
+NV_Top_15,NV_Top_15.png,B,The layering rule is: Silver is in Front of White. Option B breaks this order.,1
+NV_Top_16,NV_Top_16.png,E,The layering rule is: White is in Front of Silver. Option E breaks this order.,1
+NV_Top_17,NV_Top_17.png,E,The layering rule is: Silver is in Front of White. Option E breaks this order.,1
+NV_Top_18,NV_Top_18.png,C,The layering rule is: Silver is in Front of White. Option C breaks this order.,1
+NV_Top_19,NV_Top_19.png,D,The layering rule is: Silver is in Front of White. Option D breaks this order.,1
+NV_Top_20,NV_Top_20.png,B,The layering rule is: White is in Front of Silver. Option B breaks this order.,1
+NV_Top_21,NV_Top_21.png,D,The layering rule is: White is in Front of Silver. Option D breaks this order.,1
+NV_Top_22,NV_Top_22.png,B,The layering rule is: White is in Front of Silver. Option B breaks this order.,1
+NV_Top_23,NV_Top_23.png,A,The layering rule is: Silver is in Front of White. Option A breaks this order.,1
+NV_Top_24,NV_Top_24.png,A,The layering rule is: Silver is in Front of White. Option A breaks this order.,1
+NV_Top_25,NV_Top_25.png,A,The layering rule is: White is in Front of Silver. Option A breaks this order.,1
+NV_Top_26,NV_Top_26.png,D,The layering rule is: White is in Front of Silver. Option D breaks this order.,3
+NV_Top_27,NV_Top_27.png,E,The layering rule is: Order is Silver (Front) > White > Black (Back). Option E breaks this order.,3
+NV_Top_28,NV_Top_28.png,D,The layering rule is: White is in Front of Silver. Option D breaks this order.,3
+NV_Top_29,NV_Top_29.png,C,The layering rule is: Silver is in Front of White. Option C breaks this order.,3
+NV_Top_30,NV_Top_30.png,C,The layering rule is: Silver is in Front of White. Option C breaks this order.,3
+NV_Top_31,NV_Top_31.png,D,The layering rule is: Silver is in Front of White. Option D breaks this order.,3
+NV_Top_32,NV_Top_32.png,E,The layering rule is: White is in Front of Silver. Option E breaks this order.,3
+NV_Top_33,NV_Top_33.png,A,The layering rule is: White is in Front of Silver. Option A breaks this order.,3
+NV_Top_34,NV_Top_34.png,A,The layering rule is: Silver is in Front of White. Option A breaks this order.,3
+NV_Top_35,NV_Top_35.png,C,The layering rule is: Order is Silver (Front) > Black > White (Back). Option C breaks this order.,3
+NV_Top_36,NV_Top_36.png,B,The layering rule is: Order is White (Front) > Silver > Black (Back). Option B breaks this order.,3
+NV_Top_37,NV_Top_37.png,A,The layering rule is: Order is White (Front) > Silver > Black (Back). Option A breaks this order.,3
+NV_Top_38,NV_Top_38.png,C,The layering rule is: Order is Silver (Front) > White > Black (Back). Option C breaks this order.,3
+NV_Top_39,NV_Top_39.png,C,The layering rule is: Silver is in Front of White. Option C breaks this order.,3
+NV_Top_40,NV_Top_40.png,B,The layering rule is: White is in Front of Silver. Option B breaks this order.,3
+NV_Top_41,NV_Top_41.png,B,The layering rule is: Silver is in Front of White. Option B breaks this order.,3
+NV_Top_42,NV_Top_42.png,C,The layering rule is: Order is White (Front) > Black > Silver (Back). Option C breaks this order.,3
+NV_Top_43,NV_Top_43.png,E,The layering rule is: Order is Silver (Front) > Black > White (Back). Option E breaks this order.,3
+NV_Top_44,NV_Top_44.png,D,The layering rule is: White is in Front of Silver. Option D breaks this order.,3
+NV_Top_45,NV_Top_45.png,C,The layering rule is: White is in Front of Silver. Option C breaks this order.,3
+NV_Top_46,NV_Top_46.png,D,The layering rule is: Order is Black (Front) > White > Silver (Back). Option D breaks this order.,3
+NV_Top_47,NV_Top_47.png,E,The layering rule is: Order is Black (Front) > White > Silver (Back). Option E breaks this order.,3
+NV_Top_48,NV_Top_48.png,A,The layering rule is: Order is White (Front) > Black > Silver (Back). Option A breaks this order.,3
+NV_Top_49,NV_Top_49.png,E,The layering rule is: White is in Front of Silver. Option E breaks this order.,3
+NV_Top_50,NV_Top_50.png,E,The layering rule is: White is in Front of Silver. Option E breaks this order.,3
+NV_Top_51,NV_Top_51.png,E,The layering rule is: Order is Silver (Front) > White > Black (Back). Option E breaks this order.,5
+NV_Top_52,NV_Top_52.png,B,The layering rule is: Order is Black (Front) > Silver > White (Back). Option B breaks this order.,5
+NV_Top_53,NV_Top_53.png,B,The layering rule is: Order is Silver (Front) > Black > White (Back). Option B breaks this order.,5
+NV_Top_54,NV_Top_54.png,E,The layering rule is: Order is Silver (Front) > Black > White (Back). Option E breaks this order.,5
+NV_Top_55,NV_Top_55.png,B,The layering rule is: Order is Black (Front) > Silver > White (Back). Option B breaks this order.,5
+NV_Top_56,NV_Top_56.png,C,The layering rule is: Order is White (Front) > Black > Silver (Back). Option C breaks this order.,5
+NV_Top_57,NV_Top_57.png,E,The layering rule is: Order is White (Front) > Silver > Black (Back). Option E breaks this order.,5
+NV_Top_58,NV_Top_58.png,C,The layering rule is: Order is White (Front) > Silver > Black (Back). Option C breaks this order.,5
+NV_Top_59,NV_Top_59.png,A,The layering rule is: Order is White (Front) > Black > Silver (Back). Option A breaks this order.,5
+NV_Top_60,NV_Top_60.png,A,The layering rule is: Order is Silver (Front) > Black > White (Back). Option A breaks this order.,5
+NV_Top_61,NV_Top_61.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_62,NV_Top_62.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_63,NV_Top_63.png,C,The layering rule is: Order is White (Front) > Silver > Black (Back). Option C breaks this order.,5
+NV_Top_64,NV_Top_64.png,E,The layering rule is: Order is Silver (Front) > Black > White (Back). Option E breaks this order.,5
+NV_Top_65,NV_Top_65.png,C,The layering rule is: Order is White (Front) > Black > Silver (Back). Option C breaks this order.,5
+NV_Top_66,NV_Top_66.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_67,NV_Top_67.png,C,The layering rule is: Order is Black (Front) > Silver > White (Back). Option C breaks this order.,5
+NV_Top_68,NV_Top_68.png,E,The layering rule is: Order is White (Front) > Silver > Black (Back). Option E breaks this order.,5
+NV_Top_69,NV_Top_69.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_70,NV_Top_70.png,C,The layering rule is: Order is Black (Front) > Silver > White (Back). Option C breaks this order.,5
+NV_Top_71,NV_Top_71.png,A,The layering rule is: Order is Silver (Front) > White > Black (Back). Option A breaks this order.,5
+NV_Top_72,NV_Top_72.png,E,The layering rule is: Order is White (Front) > Silver > Black (Back). Option E breaks this order.,5
+NV_Top_73,NV_Top_73.png,A,The layering rule is: Order is Black (Front) > White > Silver (Back). Option A breaks this order.,5
+NV_Top_74,NV_Top_74.png,A,The layering rule is: Order is Black (Front) > White > Silver (Back). Option A breaks this order.,5
+NV_Top_75,NV_Top_75.png,D,The layering rule is: Order is Silver (Front) > Black > White (Back). Option D breaks this order.,5
+NV_Top_76,NV_Top_76.png,B,The layering rule is: Order is White (Front) > Silver > Black (Back). Option B breaks this order.,5
+NV_Top_77,NV_Top_77.png,E,The layering rule is: Order is Black (Front) > White > Silver (Back). Option E breaks this order.,5
+NV_Top_78,NV_Top_78.png,D,The layering rule is: Order is White (Front) > Silver > Black (Back). Option D breaks this order.,5
+NV_Top_79,NV_Top_79.png,A,The layering rule is: Order is Black (Front) > Silver > White (Back). Option A breaks this order.,5
+NV_Top_80,NV_Top_80.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_81,NV_Top_81.png,D,The layering rule is: Order is Black (Front) > Silver > White (Back). Option D breaks this order.,5
+NV_Top_82,NV_Top_82.png,D,The layering rule is: Order is White (Front) > Silver > Black (Back). Option D breaks this order.,5
+NV_Top_83,NV_Top_83.png,E,The layering rule is: Order is White (Front) > Black > Silver (Back). Option E breaks this order.,5
+NV_Top_84,NV_Top_84.png,C,The layering rule is: Order is Black (Front) > White > Silver (Back). Option C breaks this order.,5
+NV_Top_85,NV_Top_85.png,B,The layering rule is: Order is White (Front) > Black > Silver (Back). Option B breaks this order.,5
+NV_Top_86,NV_Top_86.png,D,The layering rule is: Order is Silver (Front) > Black > White (Back). Option D breaks this order.,5
+NV_Top_87,NV_Top_87.png,E,The layering rule is: Order is White (Front) > Black > Silver (Back). Option E breaks this order.,5
+NV_Top_88,NV_Top_88.png,E,The layering rule is: Order is Black (Front) > White > Silver (Back). Option E breaks this order.,5
+NV_Top_89,NV_Top_89.png,A,The layering rule is: Order is White (Front) > Black > Silver (Back). Option A breaks this order.,5
+NV_Top_90,NV_Top_90.png,E,The layering rule is: Order is Silver (Front) > White > Black (Back). Option E breaks this order.,5
+NV_Top_91,NV_Top_91.png,D,The layering rule is: Order is Black (Front) > Silver > White (Back). Option D breaks this order.,5
+NV_Top_92,NV_Top_92.png,E,The layering rule is: Order is Silver (Front) > White > Black (Back). Option E breaks this order.,5
+NV_Top_93,NV_Top_93.png,E,The layering rule is: Order is White (Front) > Silver > Black (Back). Option E breaks this order.,5
+NV_Top_94,NV_Top_94.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_95,NV_Top_95.png,E,The layering rule is: Order is Black (Front) > White > Silver (Back). Option E breaks this order.,5
+NV_Top_96,NV_Top_96.png,D,The layering rule is: Order is Silver (Front) > Black > White (Back). Option D breaks this order.,5
+NV_Top_97,NV_Top_97.png,C,The layering rule is: Order is White (Front) > Black > Silver (Back). Option C breaks this order.,5
+NV_Top_98,NV_Top_98.png,C,The layering rule is: Order is White (Front) > Black > Silver (Back). Option C breaks this order.,5
+NV_Top_99,NV_Top_99.png,B,The layering rule is: Order is White (Front) > Silver > Black (Back). Option B breaks this order.,5
+NV_Top_100,NV_Top_100.png,C,The layering rule is: Order is Black (Front) > White > Silver (Back). Option C breaks this order.,5
+NV_Q_1,NV_Quant_1.png,E,"The rule is: Lines == Black. In option E, these numbers do not match.",1
+NV_Q_2,NV_Quant_2.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",1
+NV_Q_3,NV_Quant_3.png,A,"The rule is: Lines == White. In option A, these numbers do not match.",1
+NV_Q_4,NV_Quant_4.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",1
+NV_Q_5,NV_Quant_5.png,A,"The rule is: Lines == White. In option A, these numbers do not match.",1
+NV_Q_6,NV_Quant_6.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",1
+NV_Q_7,NV_Quant_7.png,A,"The rule is: Sides == Lines. In option A, these numbers do not match.",1
+NV_Q_8,NV_Quant_8.png,D,"The rule is: Black == White. In option D, these numbers do not match.",1
+NV_Q_9,NV_Quant_9.png,A,"The rule is: Sides == Black. In option A, these numbers do not match.",1
+NV_Q_10,NV_Quant_10.png,A,"The rule is: Black == White. In option A, these numbers do not match.",1
+NV_Q_11,NV_Quant_11.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",1
+NV_Q_12,NV_Quant_12.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",1
+NV_Q_13,NV_Quant_13.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",1
+NV_Q_14,NV_Quant_14.png,C,"The rule is: Lines == White. In option C, these numbers do not match.",1
+NV_Q_15,NV_Quant_15.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",1
+NV_Q_16,NV_Quant_16.png,A,"The rule is: Black == White. In option A, these numbers do not match.",1
+NV_Q_17,NV_Quant_17.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",1
+NV_Q_18,NV_Quant_18.png,E,"The rule is: Lines == White. In option E, these numbers do not match.",1
+NV_Q_19,NV_Quant_19.png,B,"The rule is: Black == White. In option B, these numbers do not match.",1
+NV_Q_20,NV_Quant_20.png,A,"The rule is: Lines == Black. In option A, these numbers do not match.",1
+NV_Q_21,NV_Quant_21.png,E,"The rule is: Lines == White. In option E, these numbers do not match.",1
+NV_Q_22,NV_Quant_22.png,B,"The rule is: Lines == White. In option B, these numbers do not match.",1
+NV_Q_23,NV_Quant_23.png,E,"The rule is: Black == White. In option E, these numbers do not match.",1
+NV_Q_24,NV_Quant_24.png,A,"The rule is: Lines == White. In option A, these numbers do not match.",1
+NV_Q_25,NV_Quant_25.png,C,"The rule is: Black == White. In option C, these numbers do not match.",1
+NV_Q_26,NV_Quant_26.png,E,"The rule is: Lines == White. In option E, these numbers do not match.",3
+NV_Q_27,NV_Quant_27.png,E,"The rule is: Black == White. In option E, these numbers do not match.",3
+NV_Q_28,NV_Quant_28.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",3
+NV_Q_29,NV_Quant_29.png,C,"The rule is: Sides == White. In option C, these numbers do not match.",3
+NV_Q_30,NV_Quant_30.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",3
+NV_Q_31,NV_Quant_31.png,A,"The rule is: Sides == White. In option A, these numbers do not match.",3
+NV_Q_32,NV_Quant_32.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",3
+NV_Q_33,NV_Quant_33.png,C,"The rule is: Black == White. In option C, these numbers do not match.",3
+NV_Q_34,NV_Quant_34.png,D,"The rule is: Sides == Black. In option D, these numbers do not match.",3
+NV_Q_35,NV_Quant_35.png,C,"The rule is: Lines == White. In option C, these numbers do not match.",3
+NV_Q_36,NV_Quant_36.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",3
+NV_Q_37,NV_Quant_37.png,B,"The rule is: Sides == White. In option B, these numbers do not match.",3
+NV_Q_38,NV_Quant_38.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",3
+NV_Q_39,NV_Quant_39.png,D,"The rule is: Lines == Black. In option D, these numbers do not match.",3
+NV_Q_40,NV_Quant_40.png,E,"The rule is: Black == White. In option E, these numbers do not match.",3
+NV_Q_41,NV_Quant_41.png,C,"The rule is: Sides == Lines. In option C, these numbers do not match.",3
+NV_Q_42,NV_Quant_42.png,E,"The rule is: Black == White. In option E, these numbers do not match.",3
+NV_Q_43,NV_Quant_43.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",3
+NV_Q_44,NV_Quant_44.png,B,"The rule is: Black == White. In option B, these numbers do not match.",3
+NV_Q_45,NV_Quant_45.png,C,"The rule is: Sides == White. In option C, these numbers do not match.",3
+NV_Q_46,NV_Quant_46.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",3
+NV_Q_47,NV_Quant_47.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",3
+NV_Q_48,NV_Quant_48.png,E,"The rule is: Lines == Black. In option E, these numbers do not match.",3
+NV_Q_49,NV_Quant_49.png,C,"The rule is: Sides == White. In option C, these numbers do not match.",3
+NV_Q_50,NV_Quant_50.png,A,"The rule is: Lines == Black. In option A, these numbers do not match.",3
+NV_Q_51,NV_Quant_51.png,D,"The rule is: Black == White. In option D, these numbers do not match.",5
+NV_Q_52,NV_Quant_52.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",5
+NV_Q_53,NV_Quant_53.png,A,"The rule is: Sides == Black. In option A, these numbers do not match.",5
+NV_Q_54,NV_Quant_54.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_55,NV_Quant_55.png,A,"The rule is: Sides == Black. In option A, these numbers do not match.",5
+NV_Q_56,NV_Quant_56.png,C,"The rule is: Sides == Lines. In option C, these numbers do not match.",5
+NV_Q_57,NV_Quant_57.png,E,"The rule is: Lines == White. In option E, these numbers do not match.",5
+NV_Q_58,NV_Quant_58.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_59,NV_Quant_59.png,D,"The rule is: Sides == Black. In option D, these numbers do not match.",5
+NV_Q_60,NV_Quant_60.png,D,"The rule is: Black == White. In option D, these numbers do not match.",5
+NV_Q_61,NV_Quant_61.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_62,NV_Quant_62.png,D,"The rule is: Sides == Black. In option D, these numbers do not match.",5
+NV_Q_63,NV_Quant_63.png,A,"The rule is: Lines == Black. In option A, these numbers do not match.",5
+NV_Q_64,NV_Quant_64.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",5
+NV_Q_65,NV_Quant_65.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",5
+NV_Q_66,NV_Quant_66.png,E,"The rule is: Sides == White. In option E, these numbers do not match.",5
+NV_Q_67,NV_Quant_67.png,C,"The rule is: Lines == White. In option C, these numbers do not match.",5
+NV_Q_68,NV_Quant_68.png,A,"The rule is: Sides == Black. In option A, these numbers do not match.",5
+NV_Q_69,NV_Quant_69.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",5
+NV_Q_70,NV_Quant_70.png,C,"The rule is: Sides == Black. In option C, these numbers do not match.",5
+NV_Q_71,NV_Quant_71.png,D,"The rule is: Black == White. In option D, these numbers do not match.",5
+NV_Q_72,NV_Quant_72.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",5
+NV_Q_73,NV_Quant_73.png,C,"The rule is: Sides == Lines. In option C, these numbers do not match.",5
+NV_Q_74,NV_Quant_74.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",5
+NV_Q_75,NV_Quant_75.png,A,"The rule is: Sides == Black. In option A, these numbers do not match.",5
+NV_Q_76,NV_Quant_76.png,C,"The rule is: Black == White. In option C, these numbers do not match.",5
+NV_Q_77,NV_Quant_77.png,E,"The rule is: Lines == Black. In option E, these numbers do not match.",5
+NV_Q_78,NV_Quant_78.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",5
+NV_Q_79,NV_Quant_79.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",5
+NV_Q_80,NV_Quant_80.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_81,NV_Quant_81.png,C,"The rule is: Sides == White. In option C, these numbers do not match.",5
+NV_Q_82,NV_Quant_82.png,B,"The rule is: Black == White. In option B, these numbers do not match.",5
+NV_Q_83,NV_Quant_83.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",5
+NV_Q_84,NV_Quant_84.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_85,NV_Quant_85.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_86,NV_Quant_86.png,C,"The rule is: Sides == Black. In option C, these numbers do not match.",5
+NV_Q_87,NV_Quant_87.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",5
+NV_Q_88,NV_Quant_88.png,C,"The rule is: Sides == Black. In option C, these numbers do not match.",5
+NV_Q_89,NV_Quant_89.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",5
+NV_Q_90,NV_Quant_90.png,D,"The rule is: Sides == Black. In option D, these numbers do not match.",5
+NV_Q_91,NV_Quant_91.png,B,"The rule is: Lines == White. In option B, these numbers do not match.",5
+NV_Q_92,NV_Quant_92.png,B,"The rule is: Lines == Black. In option B, these numbers do not match.",5
+NV_Q_93,NV_Quant_93.png,A,"The rule is: Sides == Lines. In option A, these numbers do not match.",5
+NV_Q_94,NV_Quant_94.png,D,"The rule is: Sides == Black. In option D, these numbers do not match.",5
+NV_Q_95,NV_Quant_95.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",5
+NV_Q_96,NV_Quant_96.png,E,"The rule is: Sides == White. In option E, these numbers do not match.",5
+NV_Q_97,NV_Quant_97.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_98,NV_Quant_98.png,B,"The rule is: Sides == White. In option B, these numbers do not match.",5
+NV_Q_99,NV_Quant_99.png,C,"The rule is: Sides == White. In option C, these numbers do not match.",5
+NV_Q_100,NV_Quant_100.png,A,"The rule is: Sides == White. In option A, these numbers do not match.",5
+NV_S_1,NV_Spat_1.png,E,This shape is a reflection (mirror image).,1
+NV_S_2,NV_Spat_2.png,D,This shape is a reflection (mirror image).,1
+NV_S_3,NV_Spat_3.png,C,This shape is a reflection (mirror image).,1
+NV_S_4,NV_Spat_4.png,C,This shape is a reflection (mirror image).,1
+NV_S_5,NV_Spat_5.png,B,This shape is a reflection (mirror image).,1
+NV_S_6,NV_Spat_6.png,C,This shape is a reflection (mirror image).,1
+NV_S_7,NV_Spat_7.png,E,This shape is a reflection (mirror image).,1
+NV_S_8,NV_Spat_8.png,E,This shape is a reflection (mirror image).,1
+NV_S_9,NV_Spat_9.png,C,This shape is a reflection (mirror image).,1
+NV_S_10,NV_Spat_10.png,A,This shape is a reflection (mirror image).,1
+NV_S_11,NV_Spat_11.png,D,This shape is a reflection (mirror image).,1
+NV_S_12,NV_Spat_12.png,E,This shape is a reflection (mirror image).,1
+NV_S_13,NV_Spat_13.png,C,This shape is a reflection (mirror image).,1
+NV_S_14,NV_Spat_14.png,A,This shape is a reflection (mirror image).,1
+NV_S_15,NV_Spat_15.png,C,This shape is a reflection (mirror image).,1
+NV_S_16,NV_Spat_16.png,C,This shape is a reflection (mirror image).,1
+NV_S_17,NV_Spat_17.png,E,This shape is a reflection (mirror image).,1
+NV_S_18,NV_Spat_18.png,E,This shape is a reflection (mirror image).,1
+NV_S_19,NV_Spat_19.png,A,This shape is a reflection (mirror image).,1
+NV_S_20,NV_Spat_20.png,D,This shape is a reflection (mirror image).,1
+NV_S_21,NV_Spat_21.png,B,This shape is a reflection (mirror image).,1
+NV_S_22,NV_Spat_22.png,C,This shape is a reflection (mirror image).,1
+NV_S_23,NV_Spat_23.png,A,This shape is a reflection (mirror image).,1
+NV_S_24,NV_Spat_24.png,D,This shape is a reflection (mirror image).,1
+NV_S_25,NV_Spat_25.png,D,This shape is a reflection (mirror image).,1
+NV_S_26,NV_Spat_26.png,B,This shape is a reflection (mirror image).,3
+NV_S_27,NV_Spat_27.png,A,This shape is a reflection (mirror image).,3
+NV_S_28,NV_Spat_28.png,A,This shape is a reflection (mirror image).,3
+NV_S_29,NV_Spat_29.png,B,This shape is a reflection (mirror image).,3
+NV_S_30,NV_Spat_30.png,C,This shape is a reflection (mirror image).,3
+NV_S_31,NV_Spat_31.png,E,This shape is a reflection (mirror image).,3
+NV_S_32,NV_Spat_32.png,A,This shape is a reflection (mirror image).,3
+NV_S_33,NV_Spat_33.png,C,This shape is a reflection (mirror image).,3
+NV_S_34,NV_Spat_34.png,B,This shape is a reflection (mirror image).,3
+NV_S_35,NV_Spat_35.png,B,This shape is a reflection (mirror image).,3
+NV_S_36,NV_Spat_36.png,A,This shape is a reflection (mirror image).,3
+NV_S_37,NV_Spat_37.png,E,This shape is a reflection (mirror image).,3
+NV_S_38,NV_Spat_38.png,D,This shape is a reflection (mirror image).,3
+NV_S_39,NV_Spat_39.png,B,This shape is a reflection (mirror image).,3
+NV_S_40,NV_Spat_40.png,E,This shape is a reflection (mirror image).,3
+NV_S_41,NV_Spat_41.png,E,This shape is a reflection (mirror image).,3
+NV_S_42,NV_Spat_42.png,C,This shape is a reflection (mirror image).,3
+NV_S_43,NV_Spat_43.png,C,This shape is a reflection (mirror image).,3
+NV_S_44,NV_Spat_44.png,E,This shape is a reflection (mirror image).,3
+NV_S_45,NV_Spat_45.png,B,This shape is a reflection (mirror image).,3
+NV_S_46,NV_Spat_46.png,A,This shape is a reflection (mirror image).,3
+NV_S_47,NV_Spat_47.png,B,This shape is a reflection (mirror image).,3
+NV_S_48,NV_Spat_48.png,A,This shape is a reflection (mirror image).,3
+NV_S_49,NV_Spat_49.png,B,This shape is a reflection (mirror image).,3
+NV_S_50,NV_Spat_50.png,A,This shape is a reflection (mirror image).,3
+NV_S_51,NV_Spat_51.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_52,NV_Spat_52.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_53,NV_Spat_53.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_54,NV_Spat_54.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_55,NV_Spat_55.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_56,NV_Spat_56.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_57,NV_Spat_57.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_58,NV_Spat_58.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_59,NV_Spat_59.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_60,NV_Spat_60.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_61,NV_Spat_61.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_62,NV_Spat_62.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_63,NV_Spat_63.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_64,NV_Spat_64.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_65,NV_Spat_65.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_66,NV_Spat_66.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_67,NV_Spat_67.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_68,NV_Spat_68.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_69,NV_Spat_69.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_70,NV_Spat_70.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_71,NV_Spat_71.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_72,NV_Spat_72.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_73,NV_Spat_73.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_74,NV_Spat_74.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_75,NV_Spat_75.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_76,NV_Spat_76.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_77,NV_Spat_77.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_78,NV_Spat_78.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_79,NV_Spat_79.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_80,NV_Spat_80.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_81,NV_Spat_81.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_82,NV_Spat_82.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_83,NV_Spat_83.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_84,NV_Spat_84.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_85,NV_Spat_85.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_86,NV_Spat_86.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_87,NV_Spat_87.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_88,NV_Spat_88.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_89,NV_Spat_89.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_90,NV_Spat_90.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_91,NV_Spat_91.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_92,NV_Spat_92.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_93,NV_Spat_93.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_94,NV_Spat_94.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_95,NV_Spat_95.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_96,NV_Spat_96.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_97,NV_Spat_97.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_98,NV_Spat_98.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_99,NV_Spat_99.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_100,NV_Spat_100.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_Top_101,NV_Top_101.png,B,The layering rule is: Order is White (Front) > Silver > Black (Back). Option B breaks this order.,5
+NV_Top_102,NV_Top_102.png,C,The layering rule is: Order is Silver (Front) > Black > White (Back). Option C breaks this order.,5
+NV_Top_103,NV_Top_103.png,B,The layering rule is: Order is Silver (Front) > Black > White (Back). Option B breaks this order.,5
+NV_Top_104,NV_Top_104.png,A,The layering rule is: Order is Silver (Front) > White > Black (Back). Option A breaks this order.,5
+NV_Top_105,NV_Top_105.png,E,The layering rule is: Order is Black (Front) > Silver > White (Back). Option E breaks this order.,5
+NV_Top_106,NV_Top_106.png,C,The layering rule is: Order is Silver (Front) > Black > White (Back). Option C breaks this order.,5
+NV_Top_107,NV_Top_107.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_108,NV_Top_108.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_109,NV_Top_109.png,B,The layering rule is: Order is Silver (Front) > Black > White (Back). Option B breaks this order.,5
+NV_Top_110,NV_Top_110.png,A,The layering rule is: Order is Black (Front) > White > Silver (Back). Option A breaks this order.,5
+NV_Top_111,NV_Top_111.png,A,The layering rule is: Order is Black (Front) > White > Silver (Back). Option A breaks this order.,5
+NV_Top_112,NV_Top_112.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_113,NV_Top_113.png,D,The layering rule is: Order is Silver (Front) > Black > White (Back). Option D breaks this order.,5
+NV_Top_114,NV_Top_114.png,C,The layering rule is: Order is Black (Front) > Silver > White (Back). Option C breaks this order.,5
+NV_Top_115,NV_Top_115.png,B,The layering rule is: Order is White (Front) > Black > Silver (Back). Option B breaks this order.,5
+NV_Top_116,NV_Top_116.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_117,NV_Top_117.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_118,NV_Top_118.png,D,The layering rule is: Order is Silver (Front) > Black > White (Back). Option D breaks this order.,5
+NV_Top_119,NV_Top_119.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_120,NV_Top_120.png,A,The layering rule is: Order is Black (Front) > Silver > White (Back). Option A breaks this order.,5
+NV_Top_121,NV_Top_121.png,E,The layering rule is: Order is Silver (Front) > White > Black (Back). Option E breaks this order.,5
+NV_Top_122,NV_Top_122.png,B,The layering rule is: Order is White (Front) > Silver > Black (Back). Option B breaks this order.,5
+NV_Top_123,NV_Top_123.png,A,The layering rule is: Order is White (Front) > Silver > Black (Back). Option A breaks this order.,5
+NV_Top_124,NV_Top_124.png,D,The layering rule is: Order is White (Front) > Silver > Black (Back). Option D breaks this order.,5
+NV_Top_125,NV_Top_125.png,E,The layering rule is: Order is Black (Front) > Silver > White (Back). Option E breaks this order.,5
+NV_Top_126,NV_Top_126.png,D,The layering rule is: Order is Black (Front) > Silver > White (Back). Option D breaks this order.,5
+NV_Top_127,NV_Top_127.png,B,The layering rule is: Order is White (Front) > Silver > Black (Back). Option B breaks this order.,5
+NV_Top_128,NV_Top_128.png,C,The layering rule is: Order is Silver (Front) > White > Black (Back). Option C breaks this order.,5
+NV_Top_129,NV_Top_129.png,B,The layering rule is: Order is Silver (Front) > Black > White (Back). Option B breaks this order.,5
+NV_Top_130,NV_Top_130.png,A,The layering rule is: Order is Silver (Front) > Black > White (Back). Option A breaks this order.,5
+NV_Top_131,NV_Top_131.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_132,NV_Top_132.png,B,The layering rule is: Order is White (Front) > Black > Silver (Back). Option B breaks this order.,5
+NV_Top_133,NV_Top_133.png,B,The layering rule is: Order is White (Front) > Black > Silver (Back). Option B breaks this order.,5
+NV_Top_134,NV_Top_134.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_135,NV_Top_135.png,B,The layering rule is: Order is Black (Front) > White > Silver (Back). Option B breaks this order.,5
+NV_Top_136,NV_Top_136.png,E,The layering rule is: Order is Silver (Front) > Black > White (Back). Option E breaks this order.,5
+NV_Top_137,NV_Top_137.png,A,The layering rule is: Order is Black (Front) > White > Silver (Back). Option A breaks this order.,5
+NV_Top_138,NV_Top_138.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_139,NV_Top_139.png,A,The layering rule is: Order is Silver (Front) > White > Black (Back). Option A breaks this order.,5
+NV_Top_140,NV_Top_140.png,D,The layering rule is: Order is Black (Front) > White > Silver (Back). Option D breaks this order.,5
+NV_Top_141,NV_Top_141.png,A,The layering rule is: Order is White (Front) > Silver > Black (Back). Option A breaks this order.,5
+NV_Top_142,NV_Top_142.png,C,The layering rule is: Order is Black (Front) > White > Silver (Back). Option C breaks this order.,5
+NV_Top_143,NV_Top_143.png,A,The layering rule is: Order is White (Front) > Black > Silver (Back). Option A breaks this order.,5
+NV_Top_144,NV_Top_144.png,C,The layering rule is: Order is White (Front) > Silver > Black (Back). Option C breaks this order.,5
+NV_Top_145,NV_Top_145.png,B,The layering rule is: Order is Black (Front) > Silver > White (Back). Option B breaks this order.,5
+NV_Top_146,NV_Top_146.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_147,NV_Top_147.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_148,NV_Top_148.png,C,The layering rule is: Order is White (Front) > Black > Silver (Back). Option C breaks this order.,5
+NV_Top_149,NV_Top_149.png,C,The layering rule is: Order is Black (Front) > Silver > White (Back). Option C breaks this order.,5
+NV_Top_150,NV_Top_150.png,E,The layering rule is: Order is Silver (Front) > White > Black (Back). Option E breaks this order.,5
+NV_Top_151,NV_Top_151.png,D,The layering rule is: Order is White (Front) > Silver > Black (Back). Option D breaks this order.,5
+NV_Top_152,NV_Top_152.png,D,The layering rule is: Order is Black (Front) > White > Silver (Back). Option D breaks this order.,5
+NV_Top_153,NV_Top_153.png,B,The layering rule is: Order is White (Front) > Silver > Black (Back). Option B breaks this order.,5
+NV_Top_154,NV_Top_154.png,E,The layering rule is: Order is White (Front) > Black > Silver (Back). Option E breaks this order.,5
+NV_Top_155,NV_Top_155.png,D,The layering rule is: Order is Black (Front) > White > Silver (Back). Option D breaks this order.,5
+NV_Top_156,NV_Top_156.png,A,The layering rule is: Order is Silver (Front) > Black > White (Back). Option A breaks this order.,5
+NV_Top_157,NV_Top_157.png,C,The layering rule is: Order is White (Front) > Silver > Black (Back). Option C breaks this order.,5
+NV_Top_158,NV_Top_158.png,C,The layering rule is: Order is White (Front) > Silver > Black (Back). Option C breaks this order.,5
+NV_Top_159,NV_Top_159.png,A,The layering rule is: Order is Silver (Front) > White > Black (Back). Option A breaks this order.,5
+NV_Top_160,NV_Top_160.png,A,The layering rule is: Order is White (Front) > Silver > Black (Back). Option A breaks this order.,5
+NV_Top_161,NV_Top_161.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_162,NV_Top_162.png,A,The layering rule is: Order is Black (Front) > Silver > White (Back). Option A breaks this order.,5
+NV_Top_163,NV_Top_163.png,D,The layering rule is: Order is Black (Front) > White > Silver (Back). Option D breaks this order.,5
+NV_Top_164,NV_Top_164.png,C,The layering rule is: Order is Black (Front) > Silver > White (Back). Option C breaks this order.,5
+NV_Top_165,NV_Top_165.png,C,The layering rule is: Order is Silver (Front) > White > Black (Back). Option C breaks this order.,5
+NV_Top_166,NV_Top_166.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_167,NV_Top_167.png,A,The layering rule is: Order is White (Front) > Silver > Black (Back). Option A breaks this order.,5
+NV_Top_168,NV_Top_168.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_169,NV_Top_169.png,C,The layering rule is: Order is Black (Front) > White > Silver (Back). Option C breaks this order.,5
+NV_Top_170,NV_Top_170.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_171,NV_Top_171.png,C,The layering rule is: Order is Black (Front) > Silver > White (Back). Option C breaks this order.,5
+NV_Top_172,NV_Top_172.png,E,The layering rule is: Order is Silver (Front) > Black > White (Back). Option E breaks this order.,5
+NV_Top_173,NV_Top_173.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_174,NV_Top_174.png,D,The layering rule is: Order is Black (Front) > White > Silver (Back). Option D breaks this order.,5
+NV_Top_175,NV_Top_175.png,E,The layering rule is: Order is White (Front) > Black > Silver (Back). Option E breaks this order.,5
+NV_Top_176,NV_Top_176.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_177,NV_Top_177.png,B,The layering rule is: Order is Black (Front) > White > Silver (Back). Option B breaks this order.,5
+NV_Top_178,NV_Top_178.png,C,The layering rule is: Order is Black (Front) > Silver > White (Back). Option C breaks this order.,5
+NV_Top_179,NV_Top_179.png,E,The layering rule is: Order is Silver (Front) > Black > White (Back). Option E breaks this order.,5
+NV_Top_180,NV_Top_180.png,D,The layering rule is: Order is White (Front) > Silver > Black (Back). Option D breaks this order.,5
+NV_Top_181,NV_Top_181.png,D,The layering rule is: Order is Silver (Front) > Black > White (Back). Option D breaks this order.,5
+NV_Top_182,NV_Top_182.png,C,The layering rule is: Order is Silver (Front) > Black > White (Back). Option C breaks this order.,5
+NV_Top_183,NV_Top_183.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_184,NV_Top_184.png,C,The layering rule is: Order is Silver (Front) > Black > White (Back). Option C breaks this order.,5
+NV_Top_185,NV_Top_185.png,B,The layering rule is: Order is Silver (Front) > White > Black (Back). Option B breaks this order.,5
+NV_Top_186,NV_Top_186.png,A,The layering rule is: Order is Silver (Front) > White > Black (Back). Option A breaks this order.,5
+NV_Top_187,NV_Top_187.png,B,The layering rule is: Order is White (Front) > Black > Silver (Back). Option B breaks this order.,5
+NV_Top_188,NV_Top_188.png,A,The layering rule is: Order is White (Front) > Black > Silver (Back). Option A breaks this order.,5
+NV_Top_189,NV_Top_189.png,E,The layering rule is: Order is Black (Front) > Silver > White (Back). Option E breaks this order.,5
+NV_Top_190,NV_Top_190.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_191,NV_Top_191.png,E,The layering rule is: Order is Black (Front) > Silver > White (Back). Option E breaks this order.,5
+NV_Top_192,NV_Top_192.png,B,The layering rule is: Order is Black (Front) > Silver > White (Back). Option B breaks this order.,5
+NV_Top_193,NV_Top_193.png,D,The layering rule is: Order is Silver (Front) > Black > White (Back). Option D breaks this order.,5
+NV_Top_194,NV_Top_194.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_195,NV_Top_195.png,C,The layering rule is: Order is Black (Front) > White > Silver (Back). Option C breaks this order.,5
+NV_Top_196,NV_Top_196.png,A,The layering rule is: Order is Black (Front) > White > Silver (Back). Option A breaks this order.,5
+NV_Top_197,NV_Top_197.png,C,The layering rule is: Order is Silver (Front) > White > Black (Back). Option C breaks this order.,5
+NV_Top_198,NV_Top_198.png,D,The layering rule is: Order is Silver (Front) > White > Black (Back). Option D breaks this order.,5
+NV_Top_199,NV_Top_199.png,D,The layering rule is: Order is White (Front) > Black > Silver (Back). Option D breaks this order.,5
+NV_Top_200,NV_Top_200.png,A,The layering rule is: Order is White (Front) > Silver > Black (Back). Option A breaks this order.,5
+NV_Q_101,NV_Quant_101.png,C,"The rule is: Sides == Lines. In option C, these numbers do not match.",5
+NV_Q_102,NV_Quant_102.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_103,NV_Quant_103.png,B,"The rule is: Lines == Black. In option B, these numbers do not match.",5
+NV_Q_104,NV_Quant_104.png,A,"The rule is: Lines == White. In option A, these numbers do not match.",5
+NV_Q_105,NV_Quant_105.png,A,"The rule is: Sides == Lines. In option A, these numbers do not match.",5
+NV_Q_106,NV_Quant_106.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_107,NV_Quant_107.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",5
+NV_Q_108,NV_Quant_108.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",5
+NV_Q_109,NV_Quant_109.png,A,"The rule is: Sides == White. In option A, these numbers do not match.",5
+NV_Q_110,NV_Quant_110.png,B,"The rule is: Sides == Lines. In option B, these numbers do not match.",5
+NV_Q_111,NV_Quant_111.png,E,"The rule is: Sides == White. In option E, these numbers do not match.",5
+NV_Q_112,NV_Quant_112.png,A,"The rule is: Sides == Lines. In option A, these numbers do not match.",5
+NV_Q_113,NV_Quant_113.png,B,"The rule is: Sides == White. In option B, these numbers do not match.",5
+NV_Q_114,NV_Quant_114.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",5
+NV_Q_115,NV_Quant_115.png,D,"The rule is: Black == White. In option D, these numbers do not match.",5
+NV_Q_116,NV_Quant_116.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",5
+NV_Q_117,NV_Quant_117.png,E,"The rule is: Black == White. In option E, these numbers do not match.",5
+NV_Q_118,NV_Quant_118.png,D,"The rule is: Lines == Black. In option D, these numbers do not match.",5
+NV_Q_119,NV_Quant_119.png,D,"The rule is: Black == White. In option D, these numbers do not match.",5
+NV_Q_120,NV_Quant_120.png,A,"The rule is: Lines == Black. In option A, these numbers do not match.",5
+NV_Q_121,NV_Quant_121.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",5
+NV_Q_122,NV_Quant_122.png,C,"The rule is: Black == White. In option C, these numbers do not match.",5
+NV_Q_123,NV_Quant_123.png,D,"The rule is: Sides == Black. In option D, these numbers do not match.",5
+NV_Q_124,NV_Quant_124.png,C,"The rule is: Sides == Lines. In option C, these numbers do not match.",5
+NV_Q_125,NV_Quant_125.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_126,NV_Quant_126.png,A,"The rule is: Sides == Lines. In option A, these numbers do not match.",5
+NV_Q_127,NV_Quant_127.png,D,"The rule is: Lines == Black. In option D, these numbers do not match.",5
+NV_Q_128,NV_Quant_128.png,D,"The rule is: Lines == Black. In option D, these numbers do not match.",5
+NV_Q_129,NV_Quant_129.png,C,"The rule is: Lines == White. In option C, these numbers do not match.",5
+NV_Q_130,NV_Quant_130.png,A,"The rule is: Sides == White. In option A, these numbers do not match.",5
+NV_Q_131,NV_Quant_131.png,E,"The rule is: Sides == White. In option E, these numbers do not match.",5
+NV_Q_132,NV_Quant_132.png,E,"The rule is: Sides == White. In option E, these numbers do not match.",5
+NV_Q_133,NV_Quant_133.png,B,"The rule is: Sides == Lines. In option B, these numbers do not match.",5
+NV_Q_134,NV_Quant_134.png,E,"The rule is: Black == White. In option E, these numbers do not match.",5
+NV_Q_135,NV_Quant_135.png,C,"The rule is: Sides == Black. In option C, these numbers do not match.",5
+NV_Q_136,NV_Quant_136.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_137,NV_Quant_137.png,D,"The rule is: Lines == Black. In option D, these numbers do not match.",5
+NV_Q_138,NV_Quant_138.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",5
+NV_Q_139,NV_Quant_139.png,B,"The rule is: Lines == White. In option B, these numbers do not match.",5
+NV_Q_140,NV_Quant_140.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_141,NV_Quant_141.png,B,"The rule is: Sides == Lines. In option B, these numbers do not match.",5
+NV_Q_142,NV_Quant_142.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",5
+NV_Q_143,NV_Quant_143.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",5
+NV_Q_144,NV_Quant_144.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",5
+NV_Q_145,NV_Quant_145.png,D,"The rule is: Lines == Black. In option D, these numbers do not match.",5
+NV_Q_146,NV_Quant_146.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",5
+NV_Q_147,NV_Quant_147.png,E,"The rule is: Sides == White. In option E, these numbers do not match.",5
+NV_Q_148,NV_Quant_148.png,C,"The rule is: Sides == White. In option C, these numbers do not match.",5
+NV_Q_149,NV_Quant_149.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",5
+NV_Q_150,NV_Quant_150.png,C,"The rule is: Sides == Black. In option C, these numbers do not match.",5
+NV_Q_151,NV_Quant_151.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_152,NV_Quant_152.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",5
+NV_Q_153,NV_Quant_153.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",5
+NV_Q_154,NV_Quant_154.png,B,"The rule is: Lines == White. In option B, these numbers do not match.",5
+NV_Q_155,NV_Quant_155.png,B,"The rule is: Lines == White. In option B, these numbers do not match.",5
+NV_Q_156,NV_Quant_156.png,C,"The rule is: Lines == White. In option C, these numbers do not match.",5
+NV_Q_157,NV_Quant_157.png,C,"The rule is: Black == White. In option C, these numbers do not match.",5
+NV_Q_158,NV_Quant_158.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",5
+NV_Q_159,NV_Quant_159.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",5
+NV_Q_160,NV_Quant_160.png,B,"The rule is: Lines == Black. In option B, these numbers do not match.",5
+NV_Q_161,NV_Quant_161.png,A,"The rule is: Black == White. In option A, these numbers do not match.",5
+NV_Q_162,NV_Quant_162.png,D,"The rule is: Sides == White. In option D, these numbers do not match.",5
+NV_Q_163,NV_Quant_163.png,C,"The rule is: Sides == White. In option C, these numbers do not match.",5
+NV_Q_164,NV_Quant_164.png,D,"The rule is: Black == White. In option D, these numbers do not match.",5
+NV_Q_165,NV_Quant_165.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",5
+NV_Q_166,NV_Quant_166.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",5
+NV_Q_167,NV_Quant_167.png,E,"The rule is: Black == White. In option E, these numbers do not match.",5
+NV_Q_168,NV_Quant_168.png,C,"The rule is: Sides == Lines. In option C, these numbers do not match.",5
+NV_Q_169,NV_Quant_169.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",5
+NV_Q_170,NV_Quant_170.png,C,"The rule is: Lines == White. In option C, these numbers do not match.",5
+NV_Q_171,NV_Quant_171.png,A,"The rule is: Sides == White. In option A, these numbers do not match.",5
+NV_Q_172,NV_Quant_172.png,B,"The rule is: Sides == Lines. In option B, these numbers do not match.",5
+NV_Q_173,NV_Quant_173.png,D,"The rule is: Black == White. In option D, these numbers do not match.",5
+NV_Q_174,NV_Quant_174.png,B,"The rule is: Sides == White. In option B, these numbers do not match.",5
+NV_Q_175,NV_Quant_175.png,A,"The rule is: Lines == White. In option A, these numbers do not match.",5
+NV_Q_176,NV_Quant_176.png,B,"The rule is: Sides == White. In option B, these numbers do not match.",5
+NV_Q_177,NV_Quant_177.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_178,NV_Quant_178.png,B,"The rule is: Sides == Black. In option B, these numbers do not match.",5
+NV_Q_179,NV_Quant_179.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",5
+NV_Q_180,NV_Quant_180.png,C,"The rule is: Lines == Black. In option C, these numbers do not match.",5
+NV_Q_181,NV_Quant_181.png,C,"The rule is: Black == White. In option C, these numbers do not match.",5
+NV_Q_182,NV_Quant_182.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",5
+NV_Q_183,NV_Quant_183.png,B,"The rule is: Black == White. In option B, these numbers do not match.",5
+NV_Q_184,NV_Quant_184.png,C,"The rule is: Sides == Black. In option C, these numbers do not match.",5
+NV_Q_185,NV_Quant_185.png,D,"The rule is: Lines == White. In option D, these numbers do not match.",5
+NV_Q_186,NV_Quant_186.png,B,"The rule is: Sides == Lines. In option B, these numbers do not match.",5
+NV_Q_187,NV_Quant_187.png,A,"The rule is: Lines == Black. In option A, these numbers do not match.",5
+NV_Q_188,NV_Quant_188.png,E,"The rule is: Sides == White. In option E, these numbers do not match.",5
+NV_Q_189,NV_Quant_189.png,D,"The rule is: Sides == Lines. In option D, these numbers do not match.",5
+NV_Q_190,NV_Quant_190.png,A,"The rule is: Sides == Lines. In option A, these numbers do not match.",5
+NV_Q_191,NV_Quant_191.png,E,"The rule is: Black == White. In option E, these numbers do not match.",5
+NV_Q_192,NV_Quant_192.png,E,"The rule is: Sides == Lines. In option E, these numbers do not match.",5
+NV_Q_193,NV_Quant_193.png,D,"The rule is: Sides == Black. In option D, these numbers do not match.",5
+NV_Q_194,NV_Quant_194.png,A,"The rule is: Sides == White. In option A, these numbers do not match.",5
+NV_Q_195,NV_Quant_195.png,A,"The rule is: Lines == White. In option A, these numbers do not match.",5
+NV_Q_196,NV_Quant_196.png,B,"The rule is: Black == White. In option B, these numbers do not match.",5
+NV_Q_197,NV_Quant_197.png,D,"The rule is: Lines == Black. In option D, these numbers do not match.",5
+NV_Q_198,NV_Quant_198.png,A,"The rule is: Sides == Black. In option A, these numbers do not match.",5
+NV_Q_199,NV_Quant_199.png,E,"The rule is: Sides == Black. In option E, these numbers do not match.",5
+NV_Q_200,NV_Quant_200.png,B,"The rule is: Black == White. In option B, these numbers do not match.",5
+NV_S_101,NV_Spat_101.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_102,NV_Spat_102.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_103,NV_Spat_103.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_104,NV_Spat_104.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_105,NV_Spat_105.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_106,NV_Spat_106.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_107,NV_Spat_107.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_108,NV_Spat_108.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_109,NV_Spat_109.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_110,NV_Spat_110.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_111,NV_Spat_111.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_112,NV_Spat_112.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_113,NV_Spat_113.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_114,NV_Spat_114.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_115,NV_Spat_115.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_116,NV_Spat_116.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_117,NV_Spat_117.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_118,NV_Spat_118.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_119,NV_Spat_119.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_120,NV_Spat_120.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_121,NV_Spat_121.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_122,NV_Spat_122.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_123,NV_Spat_123.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_124,NV_Spat_124.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_125,NV_Spat_125.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_126,NV_Spat_126.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_127,NV_Spat_127.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_128,NV_Spat_128.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_129,NV_Spat_129.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_130,NV_Spat_130.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_131,NV_Spat_131.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_132,NV_Spat_132.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_133,NV_Spat_133.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_134,NV_Spat_134.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_135,NV_Spat_135.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_136,NV_Spat_136.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_137,NV_Spat_137.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_138,NV_Spat_138.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_139,NV_Spat_139.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_140,NV_Spat_140.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_141,NV_Spat_141.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_142,NV_Spat_142.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_143,NV_Spat_143.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_144,NV_Spat_144.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_145,NV_Spat_145.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_146,NV_Spat_146.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_147,NV_Spat_147.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_148,NV_Spat_148.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_149,NV_Spat_149.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_150,NV_Spat_150.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_151,NV_Spat_151.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_152,NV_Spat_152.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_153,NV_Spat_153.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_154,NV_Spat_154.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_155,NV_Spat_155.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_156,NV_Spat_156.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_157,NV_Spat_157.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_158,NV_Spat_158.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_159,NV_Spat_159.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_160,NV_Spat_160.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_161,NV_Spat_161.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_162,NV_Spat_162.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_163,NV_Spat_163.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_164,NV_Spat_164.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_165,NV_Spat_165.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_166,NV_Spat_166.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_167,NV_Spat_167.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_168,NV_Spat_168.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_169,NV_Spat_169.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_170,NV_Spat_170.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_171,NV_Spat_171.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_172,NV_Spat_172.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_173,NV_Spat_173.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_174,NV_Spat_174.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_175,NV_Spat_175.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_176,NV_Spat_176.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_177,NV_Spat_177.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_178,NV_Spat_178.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_179,NV_Spat_179.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_180,NV_Spat_180.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_181,NV_Spat_181.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_182,NV_Spat_182.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_183,NV_Spat_183.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_184,NV_Spat_184.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_185,NV_Spat_185.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_186,NV_Spat_186.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_187,NV_Spat_187.png,B,The Dot is Anti-Clockwise from the Line.,5
+NV_S_188,NV_Spat_188.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_189,NV_Spat_189.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_190,NV_Spat_190.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_191,NV_Spat_191.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_192,NV_Spat_192.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_193,NV_Spat_193.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_194,NV_Spat_194.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_195,NV_Spat_195.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_196,NV_Spat_196.png,A,The Dot is Anti-Clockwise from the Line.,5
+NV_S_197,NV_Spat_197.png,E,The Dot is Anti-Clockwise from the Line.,5
+NV_S_198,NV_Spat_198.png,D,The Dot is Anti-Clockwise from the Line.,5
+NV_S_199,NV_Spat_199.png,C,The Dot is Anti-Clockwise from the Line.,5
+NV_S_200,NV_Spat_200.png,B,The Dot is Anti-Clockwise from the Line.,5
