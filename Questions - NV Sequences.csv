@@ -1,0 +1,751 @@
+Question ID,Image File,Correct Answer
+nv_seq_001,seq_1.png,B
+nv_seq_002,seq_2.png,C
+nv_seq_003,seq_3.png,C
+nv_seq_004,seq_4.png,C
+nv_seq_005,seq_5.png,A
+nv_seq_006,seq_6.png,D
+nv_seq_007,seq_7.png,A
+nv_seq_008,seq_8.png,A
+nv_seq_009,seq_9.png,B
+nv_seq_010,seq_10.png,B
+nv_seq_011,seq_11.png,B
+nv_seq_012,seq_12.png,A
+nv_seq_013,seq_13.png,E
+nv_seq_014,seq_14.png,C
+nv_seq_015,seq_15.png,A
+nv_seq_016,seq_16.png,D
+nv_seq_017,seq_17.png,E
+nv_seq_018,seq_18.png,A
+nv_seq_019,seq_19.png,D
+nv_seq_020,seq_20.png,B
+nv_seq_021,seq_21.png,B
+nv_seq_022,seq_22.png,A
+nv_seq_023,seq_23.png,B
+nv_seq_024,seq_24.png,A
+nv_seq_025,seq_25.png,B
+nv_seq_026,seq_26.png,E
+nv_seq_027,seq_27.png,A
+nv_seq_028,seq_28.png,D
+nv_seq_029,seq_29.png,C
+nv_seq_030,seq_30.png,C
+nv_seq_031,seq_31.png,E
+nv_seq_032,seq_32.png,C
+nv_seq_033,seq_33.png,A
+nv_seq_034,seq_34.png,C
+nv_seq_035,seq_35.png,E
+nv_seq_036,seq_36.png,C
+nv_seq_037,seq_37.png,C
+nv_seq_038,seq_38.png,E
+nv_seq_039,seq_39.png,A
+nv_seq_040,seq_40.png,B
+nv_seq_041,seq_41.png,A
+nv_seq_042,seq_42.png,B
+nv_seq_043,seq_43.png,B
+nv_seq_044,seq_44.png,E
+nv_seq_045,seq_45.png,E
+nv_seq_046,seq_46.png,C
+nv_seq_047,seq_47.png,B
+nv_seq_048,seq_48.png,B
+nv_seq_049,seq_49.png,C
+nv_seq_050,seq_50.png,D
+nv_seq_051,seq_1 (1).png,D
+nv_seq_052,seq_2 (1).png,A
+nv_seq_053,seq_3 (1).png,E
+nv_seq_054,seq_4 (1).png,E
+nv_seq_055,seq_5 (1).png,A
+nv_seq_056,seq_6 (1).png,D
+nv_seq_057,seq_7 (1).png,C
+nv_seq_058,seq_8 (1).png,B
+nv_seq_059,seq_9 (1).png,C
+nv_seq_060,seq_10 (1).png,D
+nv_seq_061,seq_11 (1).png,C
+nv_seq_062,seq_12 (1).png,D
+nv_seq_063,seq_13 (1).png,D
+nv_seq_064,seq_14 (1).png,A
+nv_seq_065,seq_15 (1).png,C
+nv_seq_066,seq_16 (1).png,E
+nv_seq_067,seq_17 (1).png,D
+nv_seq_068,seq_18 (1).png,A
+nv_seq_069,seq_19 (1).png,E
+nv_seq_070,seq_20 (1).png,B
+nv_seq_071,seq_21 (1).png,B
+nv_seq_072,seq_22 (1).png,A
+nv_seq_073,seq_23 (1).png,A
+nv_seq_074,seq_24 (1).png,E
+nv_seq_075,seq_25 (1).png,A
+nv_seq_076,seq_26 (1).png,E
+nv_seq_077,seq_27 (1).png,A
+nv_seq_078,seq_28 (1).png,C
+nv_seq_079,seq_29 (1).png,E
+nv_seq_080,seq_30 (1).png,E
+nv_seq_081,seq_31 (1).png,D
+nv_seq_082,seq_32 (1).png,E
+nv_seq_083,seq_33 (1).png,D
+nv_seq_084,seq_34 (1).png,B
+nv_seq_085,seq_35 (1).png,C
+nv_seq_086,seq_36 (1).png,C
+nv_seq_087,seq_37 (1).png,C
+nv_seq_088,seq_38 (1).png,B
+nv_seq_089,seq_39 (1).png,E
+nv_seq_090,seq_40 (1).png,C
+nv_seq_091,seq_41 (1).png,B
+nv_seq_092,seq_42 (1).png,E
+nv_seq_093,seq_43 (1).png,A
+nv_seq_094,seq_44 (1).png,B
+nv_seq_095,seq_45 (1).png,E
+nv_seq_096,seq_46 (1).png,C
+nv_seq_097,seq_47 (1).png,A
+nv_seq_098,seq_48 (1).png,A
+nv_seq_099,seq_49 (1).png,A
+nv_seq_100,seq_50 (1).png,E
+nv_seq_101,seq_1 (2).png,E
+nv_seq_102,seq_2 (2).png,B
+nv_seq_103,seq_3 (2).png,C
+nv_seq_104,seq_4 (2).png,B
+nv_seq_105,seq_5 (2).png,D
+nv_seq_106,seq_6 (2).png,B
+nv_seq_107,seq_7 (2).png,B
+nv_seq_108,seq_8 (2).png,A
+nv_seq_109,seq_9 (2).png,E
+nv_seq_110,seq_10 (2).png,E
+nv_seq_111,seq_11 (2).png,E
+nv_seq_112,seq_12 (2).png,D
+nv_seq_113,seq_13 (2).png,D
+nv_seq_114,seq_14 (2).png,D
+nv_seq_115,seq_15 (2).png,D
+nv_seq_116,seq_16 (2).png,C
+nv_seq_117,seq_17 (2).png,E
+nv_seq_118,seq_18 (2).png,D
+nv_seq_119,seq_19 (2).png,A
+nv_seq_120,seq_20 (2).png,B
+nv_seq_121,seq_21 (2).png,D
+nv_seq_122,seq_22 (2).png,B
+nv_seq_123,seq_23 (2).png,B
+nv_seq_124,seq_24 (2).png,A
+nv_seq_125,seq_25 (2).png,A
+nv_seq_126,seq_26 (2).png,A
+nv_seq_127,seq_27 (2).png,E
+nv_seq_128,seq_28 (2).png,B
+nv_seq_129,seq_29 (2).png,E
+nv_seq_130,seq_30 (2).png,C
+nv_seq_131,seq_31 (2).png,B
+nv_seq_132,seq_32 (2).png,E
+nv_seq_133,seq_33 (2).png,C
+nv_seq_134,seq_34 (2).png,C
+nv_seq_135,seq_35 (2).png,D
+nv_seq_136,seq_36 (2).png,C
+nv_seq_137,seq_37 (2).png,A
+nv_seq_138,seq_38 (2).png,D
+nv_seq_139,seq_39 (2).png,C
+nv_seq_140,seq_40 (2).png,E
+nv_seq_141,seq_41 (2).png,B
+nv_seq_142,seq_42 (2).png,A
+nv_seq_143,seq_43 (2).png,B
+nv_seq_144,seq_44 (2).png,C
+nv_seq_145,seq_45 (2).png,E
+nv_seq_146,seq_46 (2).png,C
+nv_seq_147,seq_47 (2).png,D
+nv_seq_148,seq_48 (2).png,B
+nv_seq_149,seq_49 (2).png,C
+nv_seq_150,seq_50 (2).png,C
+nv_seq_151,concentric_1.png,A
+nv_seq_152,concentric_2.png,E
+nv_seq_153,concentric_3.png,A
+nv_seq_154,concentric_4.png,A
+nv_seq_155,concentric_5.png,D
+nv_seq_156,concentric_6.png,A
+nv_seq_157,concentric_7.png,C
+nv_seq_158,concentric_8.png,C
+nv_seq_159,concentric_9.png,A
+nv_seq_160,concentric_10.png,A
+nv_seq_161,concentric_11.png,C
+nv_seq_162,concentric_12.png,B
+nv_seq_163,concentric_13.png,C
+nv_seq_164,concentric_14.png,C
+nv_seq_165,concentric_15.png,D
+nv_seq_166,concentric_16.png,A
+nv_seq_167,concentric_17.png,D
+nv_seq_168,concentric_18.png,D
+nv_seq_169,concentric_19.png,C
+nv_seq_170,concentric_20.png,C
+nv_seq_171,concentric_21.png,E
+nv_seq_172,concentric_22.png,D
+nv_seq_173,concentric_23.png,E
+nv_seq_174,concentric_24.png,D
+nv_seq_175,concentric_25.png,B
+nv_seq_176,concentric_26.png,D
+nv_seq_177,concentric_27.png,D
+nv_seq_178,concentric_28.png,B
+nv_seq_179,concentric_29.png,B
+nv_seq_180,concentric_30.png,D
+nv_seq_181,concentric_31.png,D
+nv_seq_182,concentric_32.png,A
+nv_seq_183,concentric_33.png,A
+nv_seq_184,concentric_34.png,B
+nv_seq_185,concentric_35.png,B
+nv_seq_186,concentric_36.png,A
+nv_seq_187,concentric_37.png,A
+nv_seq_188,concentric_38.png,D
+nv_seq_189,concentric_39.png,C
+nv_seq_190,concentric_40.png,B
+nv_seq_191,concentric_41.png,C
+nv_seq_192,concentric_42.png,D
+nv_seq_193,concentric_43.png,B
+nv_seq_194,concentric_44.png,C
+nv_seq_195,concentric_45.png,C
+nv_seq_196,concentric_46.png,D
+nv_seq_197,concentric_47.png,B
+nv_seq_198,concentric_48.png,E
+nv_seq_199,concentric_49.png,D
+nv_seq_200,concentric_50.png,E
+nv_seq_201,hard_series_1.png,C
+nv_seq_202,hard_series_2.png,C
+nv_seq_203,hard_series_3.png,E
+nv_seq_204,hard_series_4.png,E
+nv_seq_205,hard_series_5.png,E
+nv_seq_206,hard_series_6.png,B
+nv_seq_207,hard_series_7.png,A
+nv_seq_208,hard_series_8.png,D
+nv_seq_209,hard_series_9.png,D
+nv_seq_210,hard_series_10.png,E
+nv_seq_211,hard_series_11.png,C
+nv_seq_212,hard_series_12.png,B
+nv_seq_213,hard_series_13.png,D
+nv_seq_214,hard_series_14.png,A
+nv_seq_215,hard_series_15.png,D
+nv_seq_216,hard_series_16.png,E
+nv_seq_217,hard_series_17.png,A
+nv_seq_218,hard_series_18.png,E
+nv_seq_219,hard_series_19.png,C
+nv_seq_220,hard_series_20.png,B
+nv_seq_221,hard_series_21.png,B
+nv_seq_222,hard_series_22.png,C
+nv_seq_223,hard_series_23.png,D
+nv_seq_224,hard_series_24.png,D
+nv_seq_225,hard_series_25.png,A
+nv_seq_226,hard_series_26.png,A
+nv_seq_227,hard_series_27.png,B
+nv_seq_228,hard_series_28.png,E
+nv_seq_229,hard_series_29.png,B
+nv_seq_230,hard_series_30.png,D
+nv_seq_231,hard_series_31.png,D
+nv_seq_232,hard_series_32.png,B
+nv_seq_233,hard_series_33.png,B
+nv_seq_234,hard_series_34.png,A
+nv_seq_235,hard_series_35.png,E
+nv_seq_236,hard_series_36.png,D
+nv_seq_237,hard_series_37.png,E
+nv_seq_238,hard_series_38.png,B
+nv_seq_239,hard_series_39.png,E
+nv_seq_240,hard_series_40.png,E
+nv_seq_241,hard_series_41.png,B
+nv_seq_242,hard_series_42.png,B
+nv_seq_243,hard_series_43.png,E
+nv_seq_244,hard_series_44.png,D
+nv_seq_245,hard_series_45.png,D
+nv_seq_246,hard_series_46.png,B
+nv_seq_247,hard_series_47.png,B
+nv_seq_248,hard_series_48.png,B
+nv_seq_249,hard_series_49.png,C
+nv_seq_250,hard_series_50.png,B
+nv_seq_251,opposing_1.png,C
+nv_seq_252,opposing_2.png,A
+nv_seq_253,opposing_3.png,B
+nv_seq_254,opposing_4.png,B
+nv_seq_255,opposing_5.png,D
+nv_seq_256,opposing_6.png,E
+nv_seq_257,opposing_7.png,A
+nv_seq_258,opposing_8.png,D
+nv_seq_259,opposing_9.png,D
+nv_seq_260,opposing_10.png,B
+nv_seq_261,opposing_11.png,D
+nv_seq_262,opposing_12.png,A
+nv_seq_263,opposing_13.png,C
+nv_seq_264,opposing_14.png,B
+nv_seq_265,opposing_15.png,D
+nv_seq_266,opposing_16.png,B
+nv_seq_267,opposing_17.png,E
+nv_seq_268,opposing_18.png,E
+nv_seq_269,opposing_19.png,D
+nv_seq_270,opposing_20.png,B
+nv_seq_271,opposing_21.png,B
+nv_seq_272,opposing_22.png,C
+nv_seq_273,opposing_23.png,A
+nv_seq_274,opposing_24.png,E
+nv_seq_275,opposing_25.png,D
+nv_seq_276,opposing_26.png,A
+nv_seq_277,opposing_27.png,D
+nv_seq_278,opposing_28.png,B
+nv_seq_279,opposing_29.png,B
+nv_seq_280,opposing_30.png,C
+nv_seq_281,opposing_31.png,B
+nv_seq_282,opposing_32.png,D
+nv_seq_283,opposing_33.png,B
+nv_seq_284,opposing_34.png,B
+nv_seq_285,opposing_35.png,C
+nv_seq_286,opposing_36.png,D
+nv_seq_287,opposing_37.png,B
+nv_seq_288,opposing_38.png,C
+nv_seq_289,opposing_39.png,D
+nv_seq_290,opposing_40.png,A
+nv_seq_291,opposing_41.png,C
+nv_seq_292,opposing_42.png,A
+nv_seq_293,opposing_43.png,A
+nv_seq_294,opposing_44.png,C
+nv_seq_295,opposing_45.png,E
+nv_seq_296,opposing_46.png,A
+nv_seq_297,opposing_47.png,B
+nv_seq_298,opposing_48.png,B
+nv_seq_299,opposing_49.png,B
+nv_seq_300,opposing_50.png,A
+nv_seq_301,substitution_1.png,E
+nv_seq_302,substitution_2.png,B
+nv_seq_303,substitution_3.png,D
+nv_seq_304,substitution_4.png,D
+nv_seq_305,substitution_5.png,A
+nv_seq_306,substitution_6.png,D
+nv_seq_307,substitution_7.png,B
+nv_seq_308,substitution_8.png,B
+nv_seq_309,substitution_9.png,E
+nv_seq_310,substitution_10.png,B
+nv_seq_311,substitution_11.png,A
+nv_seq_312,substitution_12.png,E
+nv_seq_313,substitution_13.png,A
+nv_seq_314,substitution_14.png,A
+nv_seq_315,substitution_15.png,A
+nv_seq_316,substitution_16.png,C
+nv_seq_317,substitution_17.png,B
+nv_seq_318,substitution_18.png,D
+nv_seq_319,substitution_19.png,A
+nv_seq_320,substitution_20.png,A
+nv_seq_321,substitution_21.png,B
+nv_seq_322,substitution_22.png,A
+nv_seq_323,substitution_23.png,C
+nv_seq_324,substitution_24.png,E
+nv_seq_325,substitution_25.png,E
+nv_seq_326,substitution_26.png,D
+nv_seq_327,substitution_27.png,B
+nv_seq_328,substitution_28.png,A
+nv_seq_329,substitution_29.png,A
+nv_seq_330,substitution_30.png,B
+nv_seq_331,substitution_31.png,A
+nv_seq_332,substitution_32.png,C
+nv_seq_333,substitution_33.png,A
+nv_seq_334,substitution_34.png,E
+nv_seq_335,substitution_35.png,B
+nv_seq_336,substitution_36.png,C
+nv_seq_337,substitution_37.png,B
+nv_seq_338,substitution_38.png,D
+nv_seq_339,substitution_39.png,B
+nv_seq_340,substitution_40.png,E
+nv_seq_341,substitution_41.png,E
+nv_seq_342,substitution_42.png,B
+nv_seq_343,substitution_43.png,A
+nv_seq_344,substitution_44.png,D
+nv_seq_345,substitution_45.png,B
+nv_seq_346,substitution_46.png,A
+nv_seq_347,substitution_47.png,E
+nv_seq_348,substitution_48.png,A
+nv_seq_349,substitution_49.png,A
+nv_seq_350,substitution_50.png,A
+nv_seq_351,q_1.png,B
+nv_seq_352,q_2.png,A
+nv_seq_353,q_3.png,B
+nv_seq_354,q_4.png,D
+nv_seq_355,q_5.png,E
+nv_seq_356,q_6.png,C
+nv_seq_357,q_7.png,A
+nv_seq_358,q_8.png,B
+nv_seq_359,q_9.png,A
+nv_seq_360,q_10.png,B
+nv_seq_361,q_11.png,C
+nv_seq_362,q_12.png,D
+nv_seq_363,q_13.png,B
+nv_seq_364,q_14.png,B
+nv_seq_365,q_15.png,D
+nv_seq_366,q_16.png,A
+nv_seq_367,q_17.png,D
+nv_seq_368,q_18.png,D
+nv_seq_369,q_19.png,B
+nv_seq_370,q_20.png,B
+nv_seq_371,q_21.png,D
+nv_seq_372,q_22.png,E
+nv_seq_373,q_23.png,A
+nv_seq_374,q_24.png,D
+nv_seq_375,q_25.png,E
+nv_seq_376,q_26.png,A
+nv_seq_377,q_27.png,A
+nv_seq_378,q_28.png,E
+nv_seq_379,q_29.png,B
+nv_seq_380,q_30.png,D
+nv_seq_381,q_31.png,C
+nv_seq_382,q_32.png,A
+nv_seq_383,q_33.png,C
+nv_seq_384,q_34.png,C
+nv_seq_385,q_35.png,D
+nv_seq_386,q_36.png,C
+nv_seq_387,q_37.png,B
+nv_seq_388,q_38.png,D
+nv_seq_389,q_39.png,D
+nv_seq_390,q_40.png,C
+nv_seq_391,q_41.png,E
+nv_seq_392,q_42.png,A
+nv_seq_393,q_43.png,A
+nv_seq_394,q_44.png,B
+nv_seq_395,q_45.png,B
+nv_seq_396,q_46.png,C
+nv_seq_397,q_47.png,D
+nv_seq_398,q_48.png,D
+nv_seq_399,q_49.png,D
+nv_seq_400,q_50.png,C
+nv_seq_401,clockwise_1.png,D
+nv_seq_402,clockwise_2.png,E
+nv_seq_403,clockwise_3.png,B
+nv_seq_404,clockwise_4.png,A
+nv_seq_405,clockwise_5.png,E
+nv_seq_406,clockwise_6.png,A
+nv_seq_407,clockwise_7.png,A
+nv_seq_408,clockwise_8.png,E
+nv_seq_409,clockwise_9.png,D
+nv_seq_410,clockwise_10.png,A
+nv_seq_411,clockwise_11.png,E
+nv_seq_412,clockwise_12.png,C
+nv_seq_413,clockwise_13.png,E
+nv_seq_414,clockwise_14.png,E
+nv_seq_415,clockwise_15.png,A
+nv_seq_416,clockwise_16.png,C
+nv_seq_417,clockwise_17.png,C
+nv_seq_418,clockwise_18.png,B
+nv_seq_419,clockwise_19.png,A
+nv_seq_420,clockwise_20.png,E
+nv_seq_421,clockwise_21.png,A
+nv_seq_422,clockwise_22.png,B
+nv_seq_423,clockwise_23.png,B
+nv_seq_424,clockwise_24.png,E
+nv_seq_425,clockwise_25.png,E
+nv_seq_426,clockwise_26.png,D
+nv_seq_427,clockwise_27.png,C
+nv_seq_428,clockwise_28.png,B
+nv_seq_429,clockwise_29.png,B
+nv_seq_430,clockwise_30.png,D
+nv_seq_431,clockwise_31.png,A
+nv_seq_432,clockwise_32.png,D
+nv_seq_433,clockwise_33.png,E
+nv_seq_434,clockwise_34.png,B
+nv_seq_435,clockwise_35.png,C
+nv_seq_436,clockwise_36.png,A
+nv_seq_437,clockwise_37.png,D
+nv_seq_438,clockwise_38.png,C
+nv_seq_439,clockwise_39.png,C
+nv_seq_440,clockwise_40.png,C
+nv_seq_441,clockwise_41.png,C
+nv_seq_442,clockwise_42.png,D
+nv_seq_443,clockwise_43.png,E
+nv_seq_444,clockwise_44.png,B
+nv_seq_445,clockwise_45.png,E
+nv_seq_446,clockwise_46.png,D
+nv_seq_447,clockwise_47.png,E
+nv_seq_448,clockwise_48.png,B
+nv_seq_449,clockwise_49.png,B
+nv_seq_450,clockwise_50.png,E
+nv_seq_451,Q33_T_1.png,D
+nv_seq_452,Q33_T_2.png,D
+nv_seq_453,Q33_T_3.png,D
+nv_seq_454,Q33_T_4.png,A
+nv_seq_455,Q33_T_5.png,B
+nv_seq_456,Q33_T_6.png,B
+nv_seq_457,Q33_T_7.png,D
+nv_seq_458,Q33_T_8.png,C
+nv_seq_459,Q33_T_9.png,C
+nv_seq_460,Q33_T_10.png,B
+nv_seq_461,Q33_T_11.png,C
+nv_seq_462,Q33_T_12.png,D
+nv_seq_463,Q33_T_13.png,E
+nv_seq_464,Q33_T_14.png,C
+nv_seq_465,Q33_T_15.png,D
+nv_seq_466,Q33_T_16.png,C
+nv_seq_467,Q33_T_17.png,B
+nv_seq_468,Q33_T_18.png,E
+nv_seq_469,Q33_T_19.png,D
+nv_seq_470,Q33_T_20.png,E
+nv_seq_471,Q33_T_21.png,D
+nv_seq_472,Q33_T_22.png,B
+nv_seq_473,Q33_T_23.png,B
+nv_seq_474,Q33_T_24.png,E
+nv_seq_475,Q33_T_25.png,D
+nv_seq_476,Q33_T_26.png,B
+nv_seq_477,Q33_T_27.png,E
+nv_seq_478,Q33_T_28.png,E
+nv_seq_479,Q33_T_29.png,D
+nv_seq_480,Q33_T_30.png,A
+nv_seq_481,Q33_T_31.png,C
+nv_seq_482,Q33_T_32.png,B
+nv_seq_483,Q33_T_33.png,C
+nv_seq_484,Q33_T_34.png,A
+nv_seq_485,Q33_T_35.png,B
+nv_seq_486,Q33_T_36.png,C
+nv_seq_487,Q33_T_37.png,E
+nv_seq_488,Q33_T_38.png,A
+nv_seq_489,Q33_T_39.png,C
+nv_seq_490,Q33_T_40.png,D
+nv_seq_491,Q33_T_41.png,B
+nv_seq_492,Q33_T_42.png,E
+nv_seq_493,Q33_T_43.png,C
+nv_seq_494,Q33_T_44.png,B
+nv_seq_495,Q33_T_45.png,B
+nv_seq_496,Q33_T_46.png,C
+nv_seq_497,Q33_T_47.png,A
+nv_seq_498,Q33_T_48.png,C
+nv_seq_499,Q33_T_49.png,C
+nv_seq_500,Q33_T_50.png,B
+nv_seq_501,Q34_Complex_1.png,D
+nv_seq_502,Q34_Complex_2.png,E
+nv_seq_503,Q34_Complex_3.png,E
+nv_seq_504,Q34_Complex_4.png,A
+nv_seq_505,Q34_Complex_5.png,D
+nv_seq_506,Q34_Complex_6.png,A
+nv_seq_507,Q34_Complex_7.png,E
+nv_seq_508,Q34_Complex_8.png,C
+nv_seq_509,Q34_Complex_9.png,D
+nv_seq_510,Q34_Complex_10.png,D
+nv_seq_511,Q34_Complex_11.png,E
+nv_seq_512,Q34_Complex_12.png,C
+nv_seq_513,Q34_Complex_13.png,C
+nv_seq_514,Q34_Complex_14.png,D
+nv_seq_515,Q34_Complex_15.png,A
+nv_seq_516,Q34_Complex_16.png,B
+nv_seq_517,Q34_Complex_17.png,A
+nv_seq_518,Q34_Complex_18.png,E
+nv_seq_519,Q34_Complex_19.png,D
+nv_seq_520,Q34_Complex_20.png,D
+nv_seq_521,Q34_Complex_21.png,D
+nv_seq_522,Q34_Complex_22.png,C
+nv_seq_523,Q34_Complex_23.png,E
+nv_seq_524,Q34_Complex_24.png,D
+nv_seq_525,Q34_Complex_25.png,C
+nv_seq_526,Q34_Complex_26.png,B
+nv_seq_527,Q34_Complex_27.png,C
+nv_seq_528,Q34_Complex_28.png,C
+nv_seq_529,Q34_Complex_29.png,D
+nv_seq_530,Q34_Complex_30.png,B
+nv_seq_531,Q34_Complex_31.png,A
+nv_seq_532,Q34_Complex_32.png,C
+nv_seq_533,Q34_Complex_33.png,E
+nv_seq_534,Q34_Complex_34.png,C
+nv_seq_535,Q34_Complex_35.png,A
+nv_seq_536,Q34_Complex_36.png,B
+nv_seq_537,Q34_Complex_37.png,E
+nv_seq_538,Q34_Complex_38.png,B
+nv_seq_539,Q34_Complex_39.png,C
+nv_seq_540,Q34_Complex_40.png,A
+nv_seq_541,Q34_Complex_41.png,E
+nv_seq_542,Q34_Complex_42.png,C
+nv_seq_543,Q34_Complex_43.png,A
+nv_seq_544,Q34_Complex_44.png,A
+nv_seq_545,Q34_Complex_45.png,E
+nv_seq_546,Q34_Complex_46.png,D
+nv_seq_547,Q34_Complex_47.png,A
+nv_seq_548,Q34_Complex_48.png,E
+nv_seq_549,Q34_Complex_49.png,B
+nv_seq_550,Q34_Complex_50.png,C
+nv_seq_551,Q35_BigBricks_1.png,D
+nv_seq_552,Q35_BigBricks_2.png,E
+nv_seq_553,Q35_BigBricks_3.png,B
+nv_seq_554,Q35_BigBricks_4.png,D
+nv_seq_555,Q35_BigBricks_5.png,D
+nv_seq_556,Q35_BigBricks_6.png,E
+nv_seq_557,Q35_BigBricks_7.png,E
+nv_seq_558,Q35_BigBricks_8.png,A
+nv_seq_559,Q35_BigBricks_9.png,A
+nv_seq_560,Q35_BigBricks_10.png,B
+nv_seq_561,Q35_BigBricks_11.png,B
+nv_seq_562,Q35_BigBricks_12.png,A
+nv_seq_563,Q35_BigBricks_13.png,A
+nv_seq_564,Q35_BigBricks_14.png,C
+nv_seq_565,Q35_BigBricks_15.png,E
+nv_seq_566,Q35_BigBricks_16.png,C
+nv_seq_567,Q35_BigBricks_17.png,C
+nv_seq_568,Q35_BigBricks_18.png,C
+nv_seq_569,Q35_BigBricks_19.png,B
+nv_seq_570,Q35_BigBricks_20.png,C
+nv_seq_571,Q35_BigBricks_21.png,C
+nv_seq_572,Q35_BigBricks_22.png,B
+nv_seq_573,Q35_BigBricks_23.png,A
+nv_seq_574,Q35_BigBricks_24.png,C
+nv_seq_575,Q35_BigBricks_25.png,D
+nv_seq_576,Q35_BigBricks_26.png,D
+nv_seq_577,Q35_BigBricks_27.png,E
+nv_seq_578,Q35_BigBricks_28.png,D
+nv_seq_579,Q35_BigBricks_29.png,B
+nv_seq_580,Q35_BigBricks_30.png,B
+nv_seq_581,Q35_BigBricks_31.png,A
+nv_seq_582,Q35_BigBricks_32.png,E
+nv_seq_583,Q35_BigBricks_33.png,E
+nv_seq_584,Q35_BigBricks_34.png,C
+nv_seq_585,Q35_BigBricks_35.png,A
+nv_seq_586,Q35_BigBricks_36.png,A
+nv_seq_587,Q35_BigBricks_37.png,E
+nv_seq_588,Q35_BigBricks_38.png,A
+nv_seq_589,Q35_BigBricks_39.png,B
+nv_seq_590,Q35_BigBricks_40.png,A
+nv_seq_591,Q35_BigBricks_41.png,E
+nv_seq_592,Q35_BigBricks_42.png,B
+nv_seq_593,Q35_BigBricks_43.png,B
+nv_seq_594,Q35_BigBricks_44.png,C
+nv_seq_595,Q35_BigBricks_45.png,C
+nv_seq_596,Q35_BigBricks_46.png,E
+nv_seq_597,Q35_BigBricks_47.png,B
+nv_seq_598,Q35_BigBricks_48.png,A
+nv_seq_599,Q35_BigBricks_49.png,B
+nv_seq_600,Q35_BigBricks_50.png,C
+nv_seq_601,Q36_HalfShade_1.png,C
+nv_seq_602,Q36_HalfShade_2.png,E
+nv_seq_603,Q36_HalfShade_3.png,B
+nv_seq_604,Q36_HalfShade_4.png,A
+nv_seq_605,Q36_HalfShade_5.png,C
+nv_seq_606,Q36_HalfShade_6.png,E
+nv_seq_607,Q36_HalfShade_7.png,D
+nv_seq_608,Q36_HalfShade_8.png,A
+nv_seq_609,Q36_HalfShade_9.png,A
+nv_seq_610,Q36_HalfShade_10.png,D
+nv_seq_611,Q36_HalfShade_11.png,A
+nv_seq_612,Q36_HalfShade_12.png,C
+nv_seq_613,Q36_HalfShade_13.png,B
+nv_seq_614,Q36_HalfShade_14.png,A
+nv_seq_615,Q36_HalfShade_15.png,B
+nv_seq_616,Q36_HalfShade_16.png,B
+nv_seq_617,Q36_HalfShade_17.png,B
+nv_seq_618,Q36_HalfShade_18.png,B
+nv_seq_619,Q36_HalfShade_19.png,A
+nv_seq_620,Q36_HalfShade_20.png,A
+nv_seq_621,Q36_HalfShade_21.png,A
+nv_seq_622,Q36_HalfShade_22.png,E
+nv_seq_623,Q36_HalfShade_23.png,D
+nv_seq_624,Q36_HalfShade_24.png,C
+nv_seq_625,Q36_HalfShade_25.png,B
+nv_seq_626,Q36_HalfShade_26.png,B
+nv_seq_627,Q36_HalfShade_27.png,D
+nv_seq_628,Q36_HalfShade_28.png,A
+nv_seq_629,Q36_HalfShade_29.png,D
+nv_seq_630,Q36_HalfShade_30.png,D
+nv_seq_631,Q36_HalfShade_31.png,B
+nv_seq_632,Q36_HalfShade_32.png,E
+nv_seq_633,Q36_HalfShade_33.png,A
+nv_seq_634,Q36_HalfShade_34.png,E
+nv_seq_635,Q36_HalfShade_35.png,B
+nv_seq_636,Q36_HalfShade_36.png,A
+nv_seq_637,Q36_HalfShade_37.png,E
+nv_seq_638,Q36_HalfShade_38.png,D
+nv_seq_639,Q36_HalfShade_39.png,A
+nv_seq_640,Q36_HalfShade_40.png,B
+nv_seq_641,Q36_HalfShade_41.png,C
+nv_seq_642,Q36_HalfShade_42.png,D
+nv_seq_643,Q36_HalfShade_43.png,B
+nv_seq_644,Q36_HalfShade_44.png,C
+nv_seq_645,Q36_HalfShade_45.png,A
+nv_seq_646,Q36_HalfShade_46.png,C
+nv_seq_647,Q36_HalfShade_47.png,A
+nv_seq_648,Q36_HalfShade_48.png,E
+nv_seq_649,Q36_HalfShade_49.png,B
+nv_seq_650,Q36_HalfShade_50.png,E
+nv_seq_651,Q37_Polygon_1.png,C
+nv_seq_652,Q37_Polygon_2.png,D
+nv_seq_653,Q37_Polygon_3.png,A
+nv_seq_654,Q37_Polygon_4.png,C
+nv_seq_655,Q37_Polygon_5.png,D
+nv_seq_656,Q37_Polygon_6.png,A
+nv_seq_657,Q37_Polygon_7.png,B
+nv_seq_658,Q37_Polygon_8.png,B
+nv_seq_659,Q37_Polygon_9.png,D
+nv_seq_660,Q37_Polygon_10.png,B
+nv_seq_661,Q37_Polygon_11.png,D
+nv_seq_662,Q37_Polygon_12.png,C
+nv_seq_663,Q37_Polygon_13.png,D
+nv_seq_664,Q37_Polygon_14.png,E
+nv_seq_665,Q37_Polygon_15.png,A
+nv_seq_666,Q37_Polygon_16.png,C
+nv_seq_667,Q37_Polygon_17.png,B
+nv_seq_668,Q37_Polygon_18.png,D
+nv_seq_669,Q37_Polygon_19.png,D
+nv_seq_670,Q37_Polygon_20.png,D
+nv_seq_671,Q37_Polygon_21.png,E
+nv_seq_672,Q37_Polygon_22.png,C
+nv_seq_673,Q37_Polygon_23.png,B
+nv_seq_674,Q37_Polygon_24.png,B
+nv_seq_675,Q37_Polygon_25.png,A
+nv_seq_676,Q37_Polygon_26.png,B
+nv_seq_677,Q37_Polygon_27.png,A
+nv_seq_678,Q37_Polygon_28.png,D
+nv_seq_679,Q37_Polygon_29.png,C
+nv_seq_680,Q37_Polygon_30.png,D
+nv_seq_681,Q37_Polygon_31.png,D
+nv_seq_682,Q37_Polygon_32.png,A
+nv_seq_683,Q37_Polygon_33.png,B
+nv_seq_684,Q37_Polygon_34.png,D
+nv_seq_685,Q37_Polygon_35.png,E
+nv_seq_686,Q37_Polygon_36.png,D
+nv_seq_687,Q37_Polygon_37.png,B
+nv_seq_688,Q37_Polygon_38.png,C
+nv_seq_689,Q37_Polygon_39.png,B
+nv_seq_690,Q37_Polygon_40.png,E
+nv_seq_691,Q37_Polygon_41.png,B
+nv_seq_692,Q37_Polygon_42.png,A
+nv_seq_693,Q37_Polygon_43.png,A
+nv_seq_694,Q37_Polygon_44.png,A
+nv_seq_695,Q37_Polygon_45.png,B
+nv_seq_696,Q37_Polygon_46.png,D
+nv_seq_697,Q37_Polygon_47.png,A
+nv_seq_698,Q37_Polygon_48.png,D
+nv_seq_699,Q37_Polygon_49.png,E
+nv_seq_700,Q37_Polygon_50.png,C
+nv_seq_701,Q38_Trans_1.png,D
+nv_seq_702,Q38_Trans_2.png,E
+nv_seq_703,Q38_Trans_3.png,B
+nv_seq_704,Q38_Trans_4.png,E
+nv_seq_705,Q38_Trans_5.png,D
+nv_seq_706,Q38_Trans_6.png,B
+nv_seq_707,Q38_Trans_7.png,B
+nv_seq_708,Q38_Trans_8.png,E
+nv_seq_709,Q38_Trans_9.png,C
+nv_seq_710,Q38_Trans_10.png,E
+nv_seq_711,Q38_Trans_11.png,B
+nv_seq_712,Q38_Trans_12.png,A
+nv_seq_713,Q38_Trans_13.png,B
+nv_seq_714,Q38_Trans_14.png,A
+nv_seq_715,Q38_Trans_15.png,D
+nv_seq_716,Q38_Trans_16.png,D
+nv_seq_717,Q38_Trans_17.png,E
+nv_seq_718,Q38_Trans_18.png,B
+nv_seq_719,Q38_Trans_19.png,B
+nv_seq_720,Q38_Trans_20.png,E
+nv_seq_721,Q38_Trans_21.png,B
+nv_seq_722,Q38_Trans_22.png,A
+nv_seq_723,Q38_Trans_23.png,C
+nv_seq_724,Q38_Trans_24.png,E
+nv_seq_725,Q38_Trans_25.png,A
+nv_seq_726,Q38_Trans_26.png,B
+nv_seq_727,Q38_Trans_27.png,E
+nv_seq_728,Q38_Trans_28.png,C
+nv_seq_729,Q38_Trans_29.png,A
+nv_seq_730,Q38_Trans_30.png,C
+nv_seq_731,Q38_Trans_31.png,A
+nv_seq_732,Q38_Trans_32.png,B
+nv_seq_733,Q38_Trans_33.png,C
+nv_seq_734,Q38_Trans_34.png,C
+nv_seq_735,Q38_Trans_35.png,A
+nv_seq_736,Q38_Trans_36.png,C
+nv_seq_737,Q38_Trans_37.png,A
+nv_seq_738,Q38_Trans_38.png,E
+nv_seq_739,Q38_Trans_39.png,A
+nv_seq_740,Q38_Trans_40.png,E
+nv_seq_741,Q38_Trans_41.png,C
+nv_seq_742,Q38_Trans_42.png,D
+nv_seq_743,Q38_Trans_43.png,A
+nv_seq_744,Q38_Trans_44.png,C
+nv_seq_745,Q38_Trans_45.png,C
+nv_seq_746,Q38_Trans_46.png,E
+nv_seq_747,Q38_Trans_47.png,E
+nv_seq_748,Q38_Trans_48.png,D
+nv_seq_749,Q38_Trans_49.png,C
+nv_seq_750,Q38_Trans_50.png,C
