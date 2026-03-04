@@ -1,0 +1,81 @@
+Ref,Image_Name,Correct_Answer,Reason
+NVR-OOO_1,P2Q1_1.png,E,The odd one out is E because the unique changing variable is 'Total Count'.
+NVR-OOO_2,P2Q1_2.png,C,The odd one out is C because the unique changing variable is 'White Count'.
+NVR-OOO_3,P2Q1_3.png,B,The odd one out is B because the unique changing variable is 'Black Count'.
+NVR-OOO_4,P2Q1_4.png,C,The odd one out is C because the unique changing variable is 'White Count'.
+NVR-OOO_5,P2Q1_5.png,B,The odd one out is B because the unique changing variable is 'Black Count'.
+NVR-OOO_6,P2Q1_6.png,B,The odd one out is B because the unique changing variable is 'Total Count'.
+NVR-OOO_7,P2Q1_7.png,B,The odd one out is B because the unique changing variable is 'Total Count'.
+NVR-OOO_8,P2Q1_8.png,C,The odd one out is C because the unique changing variable is 'White Count'.
+NVR-OOO_9,P2Q1_9.png,E,The odd one out is E because the unique changing variable is 'Orientation'.
+NVR-OOO_10,P2Q1_10.png,E,The odd one out is E because the unique changing variable is 'White Count'.
+NVR-OOO_11,P2Q1_11.png,D,The odd one out is D because the unique changing variable is 'Black Count'.
+NVR-OOO_12,P2Q1_12.png,C,The odd one out is C because the unique changing variable is 'White Count'.
+NVR-OOO_13,P2Q1_13.png,D,The odd one out is D because the unique changing variable is 'Black Count'.
+NVR-OOO_14,P2Q1_14.png,C,The odd one out is C because the unique changing variable is 'Orientation'.
+NVR-OOO_15,P2Q1_15.png,E,The odd one out is E because the unique changing variable is 'Orientation'.
+NVR-OOO_16,P2Q1_16.png,C,The odd one out is C because the unique changing variable is 'White Count'.
+NVR-OOO_17,P2Q1_17.png,A,The odd one out is A because the unique changing variable is 'Black Count'.
+NVR-OOO_18,P2Q1_18.png,C,The odd one out is C because the unique changing variable is 'Orientation'.
+NVR-OOO_19,P2Q1_19.png,A,The odd one out is A because the unique changing variable is 'Orientation'.
+NVR-OOO_20,P2Q1_20.png,E,The odd one out is E because the unique changing variable is 'Black Count'.
+NVR-OOO_21,P2Q2_1.png,A,"The odd one out is A. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_22,P2Q2_2.png,E,"The odd one out is E. The common shape and line ending stay the same, but the second shape is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_23,P2Q2_3.png,D,"The odd one out is D. The inner symbol matches the line ending, except in this option. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_24,P2Q2_4.png,D,"The odd one out is D. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_25,P2Q2_5.png,E,"The odd one out is E. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_26,P2Q2_6.png,B,"The odd one out is B. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_27,P2Q2_7.png,B,"The odd one out is B. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_28,P2Q2_8.png,D,"The odd one out is D. The common shape and line ending stay the same, but the second shape is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_29,P2Q2_9.png,C,"The odd one out is C. The common shape and line ending stay the same, but the second shape is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_30,P2Q2_10.png,C,"The odd one out is C. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_31,P2Q2_11.png,B,"The odd one out is B. The inner symbol matches the line ending, except in this option. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_32,P2Q2_12.png,A,"The odd one out is A. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_33,P2Q2_13.png,D,"The odd one out is D. The common shape and line ending stay the same, but the second shape is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_34,P2Q2_14.png,E,"The odd one out is E. The common shape and line ending stay the same, but the second shape is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_35,P2Q2_15.png,E,"The odd one out is E. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_36,P2Q2_16.png,D,"The odd one out is D. The common shape and line ending stay the same, but the second shape is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_37,P2Q2_17.png,A,"The odd one out is A. The common shape and line ending stay the same, but the second shape is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_38,P2Q2_18.png,E,"The odd one out is E. The inner symbol matches the line ending, except in this option. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_39,P2Q2_19.png,D,"The odd one out is D. The inner symbol matches the line ending, except in this option. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_40,P2Q2_20.png,B,"The odd one out is B. The two shapes remain consistent, but the line ending is different. Orientation is irrelevant to the rule as all 5 options face a different unique direction."
+NVR-OOO_41,P2Q3_1.png,B,"The odd one out is B. There are 4 black dots, while all other options have 2. White and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_42,P2Q3_2.png,C,"The odd one out is C. There are 4 black dots, while all other options have 2. White and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_43,P2Q3_3.png,C,"The odd one out is C. The outer shape is a oval, while all others are hexagons. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_44,P2Q3_4.png,D,"The odd one out is D. There are 4 black dots, while all other options have 2. White and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_45,P2Q3_5.png,A,"The odd one out is A. The outer shape is a pentagon, while all others are ovals. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_46,P2Q3_6.png,D,"The odd one out is D. There are 6 dots in total, while all other options have 4. Black and white dot counts vary but do not single out any option. Rotation is unique for all 5 options."
+NVR-OOO_47,P2Q3_7.png,E,"The odd one out is E. There are 6 dots in total, while all other options have 4. Black and white dot counts vary but do not single out any option. Rotation is unique for all 5 options."
+NVR-OOO_48,P2Q3_8.png,E,"The odd one out is E. There are 4 black dots, while all other options have 2. White and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_49,P2Q3_9.png,D,"The odd one out is D. The outer shape is a hexagon, while all others are circles. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_50,P2Q3_10.png,E,"The odd one out is E. There are 4 black dots, while all other options have 2. White and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_51,P2Q3_11.png,E,"The odd one out is E. There are 4 black dots, while all other options have 2. White and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_52,P2Q3_12.png,B,"The odd one out is B. The outer shape is a oval, while all others are circles. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_53,P2Q3_13.png,B,"The odd one out is B. There are 4 black dots, while all other options have 2. White and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_54,P2Q3_14.png,E,"The odd one out is E. There are 6 dots in total, while all other options have 4. Black and white dot counts vary but do not single out any option. Rotation is unique for all 5 options."
+NVR-OOO_55,P2Q3_15.png,D,"The odd one out is D. There are 4 white dots, while all other options have 2. Black and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_56,P2Q3_16.png,E,"The odd one out is E. The outer shape is a oval, while all others are circles. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_57,P2Q3_17.png,D,"The odd one out is D. The outer shape is a square, while all others are circles. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_58,P2Q3_18.png,E,"The odd one out is E. The outer shape is a oval, while all others are hexagons. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_59,P2Q3_19.png,C,"The odd one out is C. The outer shape is a oval, while all others are circles. Dot counts and enclosures are identical. Rotation is unique for all 5 options."
+NVR-OOO_60,P2Q3_20.png,B,"The odd one out is B. There are 4 white dots, while all other options have 2. Black and total dots are balanced to not form unique counts. Rotation is unique for all 5 options."
+NVR-OOO_61,P2Q4_1.png,E,"The odd one out is E. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_62,P2Q4_2.png,E,"The odd one out is E. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_63,P2Q4_3.png,C,"The odd one out is C. The two small shapes are spread out on the boundary, but in this option, they are clustered together and overlap each other. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_64,P2Q4_4.png,B,"The odd one out is B. The two small shapes are spread out on the boundary, but in this option, they are clustered together and overlap each other. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_65,P2Q4_5.png,A,"The odd one out is A. The two small shapes are spread out on the boundary, but in this option, they are clustered together and overlap each other. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_66,P2Q4_6.png,E,"The odd one out is E. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_67,P2Q4_7.png,D,"The odd one out is D. Both small shapes sit in front of the large shape, but in this option, one small shape is hidden behind the large shape. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_68,P2Q4_8.png,E,"The odd one out is E. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_69,P2Q4_9.png,A,"The odd one out is A. The two small shapes are spread out on the boundary, but in this option, they are clustered together and overlap each other. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_70,P2Q4_10.png,A,"The odd one out is A. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_71,P2Q4_11.png,E,"The odd one out is E. The two small shapes are spread out on the boundary, but in this option, they are clustered together and overlap each other. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_72,P2Q4_12.png,A,"The odd one out is A. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_73,P2Q4_13.png,A,"The odd one out is A. Both small shapes sit in front of the large shape, but in this option, one small shape is hidden behind the large shape. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_74,P2Q4_14.png,D,"The odd one out is D. The two small shapes are spread out on the boundary, but in this option, they are clustered together and overlap each other. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_75,P2Q4_15.png,A,"The odd one out is A. Both small shapes sit in front of the large shape, but in this option, one small shape is hidden behind the large shape. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_76,P2Q4_16.png,B,"The odd one out is B. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_77,P2Q4_17.png,B,"The odd one out is B. Both small shapes sit in front of the large shape, but in this option, one small shape is hidden behind the large shape. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_78,P2Q4_18.png,D,"The odd one out is D. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_79,P2Q4_19.png,B,"The odd one out is B. All three shapes (one large, two small) are the exact same type of polygon, except in this option. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
+NVR-OOO_80,P2Q4_20.png,B,"The odd one out is B. Both small shapes sit in front of the large shape, but in this option, one small shape is hidden behind the large shape. Colors are randomized but always feature one black, one white, and one grey, preventing a color-based rule."
