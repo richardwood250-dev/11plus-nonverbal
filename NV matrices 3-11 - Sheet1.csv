@@ -1,0 +1,151 @@
+Question,Filename,Correct_Answer,Rotation,Layout
+NV mat_0001,Q29_Rotation_Visible_Dots_01.png,B,Clockwise,Top to Bottom
+NV mat_0002,Q29_Rotation_Visible_Dots_02.png,C,Anti-Clockwise,Left to Right
+NV mat_0003,Q29_Rotation_Visible_Dots_03.png,E,Clockwise,Top to Bottom
+NV mat_0004,Q29_Rotation_Visible_Dots_04.png,E,Anti-Clockwise,Left to Right
+NV mat_0005,Q29_Rotation_Visible_Dots_05.png,D,Anti-Clockwise,Top to Bottom
+NV mat_0006,Q29_Rotation_Visible_Dots_06.png,E,Anti-Clockwise,Top to Bottom
+NV mat_0007,Q29_Rotation_Visible_Dots_07.png,A,Anti-Clockwise,Left to Right
+NV mat_0008,Q29_Rotation_Visible_Dots_08.png,C,Anti-Clockwise,Left to Right
+NV mat_0009,Q29_Rotation_Visible_Dots_09.png,B,Clockwise,Top to Bottom
+NV mat_0010,Q29_Rotation_Visible_Dots_10.png,C,Clockwise,Left to Right
+NV mat_0011,Q29_Rotation_Visible_Dots_11.png,D,Anti-Clockwise,Left to Right
+NV mat_0012,Q29_Rotation_Visible_Dots_12.png,D,Clockwise,Top to Bottom
+NV mat_0013,Q29_Rotation_Visible_Dots_13.png,E,Clockwise,Left to Right
+NV mat_0014,Q29_Rotation_Visible_Dots_14.png,C,Anti-Clockwise,Top to Bottom
+NV mat_0015,Q29_Rotation_Visible_Dots_15.png,B,Anti-Clockwise,Top to Bottom
+NV mat_0016,Q29_Rotation_Visible_Dots_16.png,B,Clockwise,Left to Right
+NV mat_0017,Q29_Rotation_Visible_Dots_17.png,B,Anti-Clockwise,Top to Bottom
+NV mat_0018,Q29_Rotation_Visible_Dots_18.png,B,Anti-Clockwise,Left to Right
+NV mat_0019,Q29_Rotation_Visible_Dots_19.png,C,Anti-Clockwise,Left to Right
+NV mat_0020,Q29_Rotation_Visible_Dots_20.png,B,Anti-Clockwise,Left to Right
+NV mat_0021,Q30_Quantitative_01.png,C,5,Top to Bottom
+NV mat_0022,Q30_Quantitative_02.png,C,4,Top to Bottom
+NV mat_0023,Q30_Quantitative_03.png,A,4,Top to Bottom
+NV mat_0024,Q30_Quantitative_04.png,A,5,Left to Right
+NV mat_0025,Q30_Quantitative_05.png,A,4,Top to Bottom
+NV mat_0026,Q30_Quantitative_06.png,E,5,Left to Right
+NV mat_0027,Q30_Quantitative_07.png,A,4,Left to Right
+NV mat_0028,Q30_Quantitative_08.png,D,4,Top to Bottom
+NV mat_0029,Q30_Quantitative_09.png,C,4,Left to Right
+NV mat_0030,Q30_Quantitative_10.png,C,5,Left to Right
+NV mat_0031,Q30_Quantitative_11.png,C,4,Left to Right
+NV mat_0032,Q30_Quantitative_12.png,C,5,Left to Right
+NV mat_0033,Q30_Quantitative_13.png,E,4,Left to Right
+NV mat_0034,Q30_Quantitative_14.png,C,4,Top to Bottom
+NV mat_0035,Q30_Quantitative_15.png,D,4,Left to Right
+NV mat_0036,Q30_Quantitative_16.png,C,5,Top to Bottom
+NV mat_0037,Q30_Quantitative_17.png,D,5,Left to Right
+NV mat_0038,Q30_Quantitative_18.png,B,5,Top to Bottom
+NV mat_0039,Q30_Quantitative_19.png,C,5,Top to Bottom
+NV mat_0040,Q30_Quantitative_20.png,B,4,Left to Right
+NV mat_0041,Q28_Overlay_01.png,B,C1 + C2 = C3,
+NV mat_0042,Q28_Overlay_02.png,B,C1 + C2 = C3,
+NV mat_0043,Q28_Overlay_03.png,D,C2 + C3 = C1,
+NV mat_0044,Q28_Overlay_04.png,A,C2 + C3 = C1,
+NV mat_0045,Q28_Overlay_05.png,C,C1 + C3 = C2,
+NV mat_0046,Q28_Overlay_06.png,B,C2 + C3 = C1,
+NV mat_0047,Q28_Overlay_07.png,A,C2 + C3 = C1,
+NV mat_0048,Q28_Overlay_08.png,D,C2 + C3 = C1,
+NV mat_0049,Q28_Overlay_09.png,C,C1 + C2 = C3,
+NV mat_0050,Q28_Overlay_10.png,E,C1 + C2 = C3,
+NV mat_0051,Q28_Overlay_11.png,A,C1 + C3 = C2,
+NV mat_0052,Q28_Overlay_12.png,E,C2 + C3 = C1,
+NV mat_0053,Q28_Overlay_13.png,A,C2 + C3 = C1,
+NV mat_0054,Q28_Overlay_14.png,B,C1 + C2 = C3,
+NV mat_0055,Q28_Overlay_15.png,B,C1 + C3 = C2,
+NV mat_0056,Q28_Overlay_16.png,E,C1 + C2 = C3,
+NV mat_0057,Q28_Overlay_17.png,A,C1 + C3 = C2,
+NV mat_0058,Q28_Overlay_18.png,B,C1 + C3 = C2,
+NV mat_0059,Q28_Overlay_19.png,C,C1 + C3 = C2,
+NV mat_0060,Q28_Overlay_20.png,A,C1 + C3 = C2,
+NV mat_0061,Q27_Variant_01.png,B,Transposed (T->B),
+NV mat_0062,Q27_Variant_02.png,D,Transposed (T->B),
+NV mat_0063,Q27_Variant_03.png,A,Transposed (T->B),
+NV mat_0064,Q27_Variant_04.png,E,Standard (L->R),
+NV mat_0065,Q27_Variant_05.png,C,Transposed (T->B),
+NV mat_0066,Q27_Variant_06.png,C,Transposed (T->B),
+NV mat_0067,Q27_Variant_07.png,B,Transposed (T->B),
+NV mat_0068,Q27_Variant_08.png,B,Standard (L->R),
+NV mat_0069,Q27_Variant_09.png,D,Transposed (T->B),
+NV mat_0070,Q27_Variant_10.png,D,Transposed (T->B),
+NV mat_0071,Q27_Variant_11.png,A,Standard (L->R),
+NV mat_0072,Q27_Variant_12.png,B,Transposed (T->B),
+NV mat_0073,Q27_Variant_13.png,C,Transposed (T->B),
+NV mat_0074,Q27_Variant_14.png,D,Transposed (T->B),
+NV mat_0075,Q27_Variant_15.png,E,Standard (L->R),
+NV mat_0076,Q27_Variant_16.png,A,Standard (L->R),
+NV mat_0077,Q27_Variant_17.png,D,Transposed (T->B),
+NV mat_0078,Q27_Variant_18.png,D,Standard (L->R),
+NV mat_0079,Q27_Variant_19.png,C,Standard (L->R),
+NV mat_0080,Q27_Variant_20.png,D,Standard (L->R),
+NV mat_0081,Q26_Variant_01.png,E,Transposed (L->R),
+NV mat_0082,Q26_Variant_02.png,A,Transposed (L->R),
+NV mat_0083,Q26_Variant_03.png,D,Transposed (L->R),
+NV mat_0084,Q26_Variant_04.png,D,Transposed (L->R),
+NV mat_0085,Q26_Variant_05.png,E,Transposed (L->R),
+NV mat_0086,Q26_Variant_06.png,A,Transposed (L->R),
+NV mat_0087,Q26_Variant_07.png,E,Standard (Top->Bottom),
+NV mat_0088,Q26_Variant_08.png,E,Standard (Top->Bottom),
+NV mat_0089,Q26_Variant_09.png,E,Transposed (L->R),
+NV mat_0090,Q26_Variant_10.png,E,Transposed (L->R),
+NV mat_0091,Q26_Variant_11.png,D,Standard (Top->Bottom),
+NV mat_0092,Q26_Variant_12.png,C,Standard (Top->Bottom),
+NV mat_0093,Q26_Variant_13.png,E,Standard (Top->Bottom),
+NV mat_0094,Q26_Variant_14.png,B,Standard (Top->Bottom),
+NV mat_0095,Q26_Variant_15.png,E,Transposed (L->R),
+NV mat_0096,Q26_Variant_16.png,B,Standard (Top->Bottom),
+NV mat_0097,Q26_Variant_17.png,B,Transposed (L->R),
+NV mat_0098,Q26_Variant_18.png,C,Transposed (L->R),
+NV mat_0099,Q26_Variant_19.png,E,Transposed (L->R),
+NV mat_0100,Q26_Variant_20.png,E,Transposed (L->R),
+NV mat_0101,Q23_Custom_Final_01.png,B,,
+NV mat_0102,Q23_Custom_Final_02.png,B,,
+NV mat_0103,Q23_Custom_Final_03.png,C,,
+NV mat_0104,Q23_Custom_Final_04.png,D,,
+NV mat_0105,Q23_Custom_Final_05.png,D,,
+NV mat_0106,Q23_Custom_Final_06.png,A,,
+NV mat_0107,Q23_Custom_Final_07.png,A,,
+NV mat_0108,Q23_Custom_Final_08.png,B,,
+NV mat_0109,Q23_Custom_Final_09.png,B,,
+NV mat_0110,Q23_Custom_Final_10.png,A,,
+NV mat_0111,Q23_Custom_Final_11.png,C,,
+NV mat_0112,Q23_Custom_Final_12.png,A,,
+NV mat_0113,Q23_Custom_Final_13.png,D,,
+NV mat_0114,Q23_Custom_Final_14.png,C,,
+NV mat_0115,Q23_Custom_Final_15.png,B,,
+NV mat_0116,Q23_Custom_Final_16.png,A,,
+NV mat_0117,Q23_Custom_Final_17.png,E,,
+NV mat_0118,Q23_Custom_Final_18.png,C,,
+NV mat_0119,Q23_Custom_Final_19.png,D,,
+NV mat_0120,Q23_Custom_Final_20.png,B,,
+NV mat_0121,Q23_Custom_Final_21.png,E,,
+NV mat_0122,Q23_Custom_Final_22.png,E,,
+NV mat_0123,Q23_Custom_Final_23.png,C,,
+NV mat_0124,Q23_Custom_Final_24.png,D,,
+NV mat_0125,Q23_Custom_Final_25.png,A,,
+NV mat_0126,Q23_Custom_Final_26.png,C,,
+NV mat_0127,Q23_Custom_Final_27.png,D,,
+NV mat_0128,Q23_Custom_Final_28.png,A,,
+NV mat_0129,Q23_Custom_Final_29.png,C,,
+NV mat_0130,Q23_Custom_Final_30.png,A,,
+NV mat_0131,Q23_Custom_Final_31.png,B,,
+NV mat_0132,Q23_Custom_Final_32.png,A,,
+NV mat_0133,Q23_Custom_Final_33.png,B,,
+NV mat_0134,Q23_Custom_Final_34.png,B,,
+NV mat_0135,Q23_Custom_Final_35.png,D,,
+NV mat_0136,Q23_Custom_Final_36.png,A,,
+NV mat_0137,Q23_Custom_Final_37.png,E,,
+NV mat_0138,Q23_Custom_Final_38.png,A,,
+NV mat_0139,Q23_Custom_Final_39.png,A,,
+NV mat_0140,Q23_Custom_Final_40.png,A,,
+NV mat_0141,Q23_Custom_Final_41.png,D,,
+NV mat_0142,Q23_Custom_Final_42.png,D,,
+NV mat_0143,Q23_Custom_Final_43.png,E,,
+NV mat_0144,Q23_Custom_Final_44.png,C,,
+NV mat_0145,Q23_Custom_Final_45.png,A,,
+NV mat_0146,Q23_Custom_Final_46.png,E,,
+NV mat_0147,Q23_Custom_Final_47.png,A,,
+NV mat_0148,Q23_Custom_Final_48.png,D,,
+NV mat_0149,Q23_Custom_Final_49.png,C,,
+NV mat_0150,Q23_Custom_Final_50.png,D,,
